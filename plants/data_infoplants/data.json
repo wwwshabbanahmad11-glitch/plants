@@ -1,0 +1,3369 @@
+[
+   {
+      "name_en_plant":"Ginger",
+      "name_ar_plant":"الزنجبيل",
+      "name_latiny_plant":"Zingiber officinale Roscoe",
+      "plant_category":"1",
+      "image_plant":"Ginger.jpg",
+      "desc_plant":"الزنجبيل نبات عشبي معمر، الجزء المستخدم طبيًا هو الجذمور (Rhizome) الموجود تحت سطح التربة. يتميز برائحة عطرية وطعم حار بسبب احتوائه على مركبات فعالة مميزة.",
+      "Active ingredients and chemical compounds": [
+         {
+            "name": "الجنجيرولات Gingerols",
+            "desc": "خاصة مركب 6-Gingerol، وهو المسؤول عن جزء كبير من التأثيرات المضادة للالتهاب والأكسد."
+         },
+         {
+            "name": "الشوغولات Shogaols",
+            "desc": "تتكون جزئيًا عند تجفيف أو تسخين الزنجبيل"
+         }
+      ],
+      "benefits": {
+            "ben1":"تخفيف الغثيان والقيء",
+            "ben2":" تحسين أعراض عسر الهضم",
+            "ben3":"تخفيف آلام الدورة الشهرية",
+            "ben4":"دعم صحة القلب والأوعية"
+
+         },
+      "Traditional uses": [
+         "نزلات البرد",
+         "مشاكل المعدة",
+         "الغازات",
+         "الغثيان",
+         "آلام العضلات"
+      ],
+      "Modern uses": [
+         "مكملات لعلاج الغثيان",
+         "شاي الزنجبيل للهضم",
+         "مستخلصات معيارية للأغراض البحثية"
+
+      ],
+      "How to use": [
+         {
+            "use": "مسحوق الزنجبيل",
+            "desc_use": "يضاف إلى الطعام أو يؤخذ كمشروب"
+         },
+         {
+            "use": "شاي الزنجبيل",
+            "desc_use": "نقع شرائح أو مسحوق الزنجبيل في الماء الساخن"
+         }
+      ],
+      "Typical dosages": [
+         "الغثيان غالبًا تستخدم الدراسات جرعات بين 1–2 غرام يوميًا من مسحوق الزنجبيل",
+         "آلام الدورة الشهرية استُخدمت جرعات تقارب 750–2000 ملغ يوميًا خلال الأيام الأولى من الدورة في بعض الدراسات"
+      ],
+      "Warnings": [
+         "الأشخاص الذين يعانون من حصى المرارة",
+         "المرضى الذين يتناولون أدوية تؤثر على تخثر الدم",
+         "قبل العمليات الجراحية"
+      ],
+      "Side effects": [
+         "حرقة المعدة",
+         "الإسهال",
+         "تهيج الفم أو الحلق",
+         "اضطرابات معدية"
+      ],
+      "Pregnancy and Lactation": [
+         "يستخدم أحيانًا لتخفيف غثيان الحمل بجرعات محددة",
+         "يجب استشارة الطبيب قبل استخدام الجرعات العالية أو المكملات المركزة",
+         "لا توجد معلومات كافية عن الجرعات العالية أثناء الرضاعة"
+      ],
+      "Scientific References": [
+         "Mashhadi NS, et al.\nAnti-oxidative and anti-inflammatory effects of ginger.\nJournal of Nutrition.",
+         "Anh NH, et al.\nGinger on human health: A comprehensive systematic review.\nNutrition.",
+         "Marx W, et al.\nThe effect of ginger on nausea and vomiting: a systematic review.\nCritical Reviews in Food Science and Nutrition."
+      ]
+   },
+   {
+      "name_en_plant":"Turmeric",
+      "name_ar_plant":"الكركم",
+      "name_latiny_plant":"Curcuma longa L",
+      "plant_category":"1",
+      "image_plant":"Turmeric.jpg",
+      "desc_plant":"الكركم نبات عشبي معمر ينتمي إلى الفصيلة الزنجبيلية، والجزء المستخدم طبيًا هو الجذمور (Rhizome). يتميز بلونه الأصفر البرتقالي بسبب وجود مركبات الكركمين، ويُستخدم كتوابل وكمادة صبغية طبيعية إضافة إلى استخداماته الطبية التقليدية",
+      "Active ingredients and chemical compounds": [
+         {
+            "name": "الكركمينويدات Curcuminoids",
+            "desc": "Curcumin"
+         },
+         {
+            "name": "الزيوت الطيارة Essential oils",
+            "desc": "Turmerone"
+         }
+      ],
+      "benefits": {
+         "ben1":"تخفيف أعراض التهاب المفاصل",
+         "ben2":"دعم صحة الجهاز الهضمي",
+         "ben3":"تحسين بعض مؤشرات وظيفة بطانة الأوعية الدموية",
+         "ben4":"حماية الخلايا العصبية"
+
+      },
+      "Traditional uses": [
+         "اضطرابات الهضم",
+         "الجروح الجلدية",
+         "الآلام",
+         "مشاكل الكبد",
+         "الالتهابات"
+      ],
+      "Modern uses": [
+         "مستحضرات لدعم صحة المفاصل",
+         "إضافات غذائية"
+
+      ],
+      "How to use": [
+         {
+            "use": "مسحوق الكركم",
+            "desc_use": "يُستخدم كبهار أو يضاف إلى المشروبات والطعام"
+         },
+         {
+            "use": "مستخلص الكركمين",
+            "desc_use": "مستحضرات تحتوي على الكركمين مع مواد محسنة للامتصاص مثل البيبيرين Piperine"
+         }
+      ],
+      "Typical dosages": [
+         "مسحوق الكركم الغذائي: عادة 1–3 غرام يوميًا ضمن الاستخدام الغذائي",
+         "مستخلص الكركمين في الدراسات: غالبًا بين 500–2000 ملغ يوميًا حسب التركيز والغرض.\nالجرعات العلاجية العالية من المكملات يجب أن تكون تحت إشراف طبي."
+      ],
+      "Warnings": [
+         "مرضى حصى المرارة أو انسداد القنوات الصفراوية",
+         "الأشخاص الذين لديهم قابلية للنزيف",
+         "قبل العمليات الجراحية"
+      ],
+      "Side effects": [
+         "حرقة المعدة",
+         "الإسهال",
+         "اضطرابات معدية"
+      ],
+      "Pregnancy and Lactation": [
+         "استخدام الكركم كتوابل غذائية غالبًا آمن",
+         "الجرعات العالية من مكملات الكركمين لا يُنصح بها أثناء الحمل إلا باستشارة الطبيب",
+         "المعلومات حول الجرعات العالية في الرضاعة محدودة"
+      ],
+      "Scientific References": [
+         "World Health Organization (WHO).\nWHO Monographs on Selected Medicinal Plants – Curcuma longa",
+         "European Medicines Agency (EMA).\nAssessment report on Curcuma longa L., rhizoma",
+         "Daily JW, et al.\nEfficacy of turmeric extracts and curcumin for alleviating the symptoms of joint arthritis.\nJournal of Medicinal Food"
+      ]
+   },
+   {
+      "name_en_plant":"Garlic",
+      "name_ar_plant":"الثوم",
+      "name_latiny_plant":"Allium sativum L",
+      "plant_category":"2",
+      "image_plant":"Garlic.jpg",
+      "desc_plant":"الثوم نبات عشبي معمر، الجزء المستخدم طبيًا هو البصلة (Bulb) التي تتكون من عدة فصوص. يتميز برائحة قوية تنتج عند سحق الفصوص بسبب تكوّن مركبات كبريتية فعالة.",
+      "Active ingredients and chemical compounds": [
+         {
+            "name": "الأليسين Allicin",
+            "desc": "أهم مركب كبريتي يتكون عند سحق الثوم الطازج نتيجة تحول Alliin بواسطة إنزيم Alliinase"
+         },
+         {
+            "name": "مركبات الكبريت العضوية",
+            "desc": "Diallyl disulfide"
+         }
+      ],
+      "benefits": {
+         "ben1":"دعم صحة القلب والأوعية الدموية",
+         "ben2":"دعم جهاز المناعة",
+         "ben3":"التأثير المضاد للميكروبات",
+         "ben4":"التأثير المضاد للأكسدة"
+
+      },
+      "Traditional uses": [
+         "الديدان المعوية",
+         "الالتهابات الجلدية",
+         "تحسين القوة والنشاط.",
+         "السعال",
+         "نزلات البرد"
+      ],
+      "Modern uses": [
+         "مكملات الثوم لخفض ضغط الدم أو الكوليسترول بدرجات محدودة",
+         "مستحضرات الثوم المضادة للميكروبات"
+
+      ],
+      "How to use": [
+         {
+            "use": "الثوم الطازج",
+            "desc_use": "يُستخدم بعد تقطيعه أو سحقه لتحفيز تكوّن الأليسين"
+         },
+         {
+            "use": "مستخلص الثوم المعتق",
+            "desc_use": "وهو مستخلص يُحضّر بطريقة خاصة ويحتوي على مركبات كبريتية مستقرة"
+         }
+      ],
+      "Typical dosages": [
+         "الثوم الغذائي: فص أو عدة فصوص يوميًا حسب النظام الغذائي",
+         "مسحوق الثوم في الدراسات: تقريبًا 600–1200 ملغ يوميًا من المستحضرات المعيارية"
+      ],
+      "Warnings": [
+         "تهيج الجلد",
+         "حروق كيميائية عند وضعه مباشرة لفترة طويلة"
+      ],
+      "Side effects": [
+         "رائحة الفم والجسم",
+         "حرقة المعدة",
+         "الغازات"
+      ],
+      "Pregnancy and Lactation": [
+         "استخدام الثوم كغذاء غالبًا آمن",
+         "الجرعات العالية من المكملات أثناء الحمل غير موصى بها لعدم كفاية البيانات",
+         "قد يغير طعم حليب الأم عند بعض النساء"
+      ],
+      "Scientific References": [
+         "World Health Organization (WHO).\nWHO Monographs on Selected Medicinal Plants – Allium sativum",
+         "European Medicines Agency (EMA).\nAssessment report on Allium sativum L., bulbus",
+         "Ried K.\nGarlic lowers blood pressure in hypertensive individuals, regulates cholesterol, and stimulates immunity"
+      ]
+   },
+   {
+      "name_en_plant":"Peppermint",
+      "name_ar_plant":"النعناع",
+      "name_latiny_plant":"Mentha",
+      "plant_category":"1",
+      "image_plant":"Peppermint.jpg",
+      "desc_plant":"النعناع الفلفلي نبات عشبي عطري معمر،يتميز برائحة قوية منعشة بسبب ارتفاع محتواه من المنثول Menthol",
+      "Active ingredients and chemical compounds": [
+         {
+            "name": "الزيت العطري Peppermint essential oil",
+            "desc": "أهم مكزناته Menthol (المنثول)"
+         },
+         {
+            "name": "المركبات الفينولية",
+            "desc": "Rosmarinic acid"
+         }
+      ],
+      "benefits": {
+         "ben1":"تخفيف أعراض القولون العصبي IBS",
+         "ben2":"تخفيف عسر الهضم والغازات",
+         "ben3":"تخفيف الصداع وآلام التوتر",
+         "ben4":"التأثير المضاد للميكروبات"
+
+      },
+      "Traditional uses": [
+         "اضطرابات المعدة",
+         "الغثيان",
+         "المغص",
+         "الصداع",
+         "رائحة الفم الكريهة"
+      ],
+      "Modern uses": [
+         "كبسولات زيت النعناع المغلفة معويًا للقولون العصبي",
+         "زيت النعناع في المستحضرات الموضعية للصداع وآلام العضلات"
+
+      ],
+      "How to use": [
+         {
+            "use": "شاي النعناع",
+            "desc_use": "تحضير الأوراق المجففة أو الطازجة بالماء الساخن"
+         },
+         {
+            "use": "زيت النعناع",
+            "desc_use": "خارجيًا بعد تخفيفه على الجلد"
+         }
+      ],
+      "Typical dosages": [
+         "للقولون العصبي زيت النعناع المغلف معويًا غالبًا 180–225 ملغ ثلاث مرات يوميًا في الدراسات السريرية",
+         "الشاي تختلف الكمية حسب قوة التحضير والاستخدام"
+      ],
+      "Warnings": [
+         "الأطفال الصغار، خاصة قرب الأنف والوجه، بسبب خطر تشنج الحنجرة أو مشاكل التنفس",
+         "الأشخاص المصابين بارتجاع المريء، لأنه قد يزيد الأعراض"
+      ],
+      "Side effects": [
+         "حرقة المعدة",
+         "تهيج المعدة",
+         "الحساسية الجلدية عند استخدام الزيت المركز"
+      ],
+      "Pregnancy and Lactation": [
+         "استخدام النعناع كغذاء أو شاي خفيف غالبًا آمن",
+         "لا يُنصح باستخدام الجرعات العلاجية العالية من زيت النعناع أثناء الحمل والرضاعة إلا باستشارة طبية"
+
+      ],
+      "Scientific References": [
+         "European Medicines Agency (EMA).\nAssessment report on Mentha × piperita L., folium and aetheroleum",
+         "World Health Organization (WHO).\nWHO Monographs on Selected Medicinal Plants – Peppermint Leaf",
+         "Khanna R, MacDonald JK, Levesque BG.\nPeppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis"
+      ]
+   },
+   {
+      "name_en_plant":"Cinnamon",
+      "name_ar_plant":"القرفة",
+      "name_latiny_plant":"Cinnamomum verum J.Presl",
+      "plant_category":"1",
+      "image_plant":"Cinnamon.jpg",
+      "desc_plant":"القرفة نبات شجري دائم الخضرة، الجزء المستخدم طبيًا هو اللحاء الداخلي المجفف للساق. تتميز برائحتها المميزة بسبب احتوائها على زيوت طيارة أهمها السينامالدهيد.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"السينامالدهيد Cinnamaldehyde",
+            "desc":"المركب الرئيسي المسؤول عن الرائحة والنشاطات البيولوجية للقرفة."
+         },
+         {
+            "name":"البوليفينولات Polyphenols",
+            "desc":"مركبات مضادة للأكسدة مثل Procyanidins وFlavonoids."
+         },
+         {
+            "name":"الكومارين Coumarin",
+            "desc":"يوجد بكميات متفاوتة خاصة في قرفة الكاسيا وقد يؤثر على الكبد عند الجرعات العالية."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في تنظيم مستويات سكر الدم",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"التأثير المضاد للالتهاب",
+         "ben4":"دعم صحة القلب والأوعية الدموية"
+      },
+      "Traditional uses":[
+         "عسر الهضم",
+         "نزلات البرد",
+         "آلام البطن",
+         "تحسين الشهية",
+         "تقليل الغازات"
+      ],
+      "Modern uses":[
+         "مكملات لدعم التحكم بسكر الدم",
+         "مستحضرات مضادة للأكسدة",
+         "استخدامها كتوابل غذائية ذات قيمة صحية"
+      ],
+      "How to use":[
+         {
+            "use":"مسحوق القرفة",
+            "desc_use":"يضاف إلى الطعام أو المشروبات."
+         },
+         {
+            "use":"شاي القرفة",
+            "desc_use":"نقع أعواد القرفة أو مسحوقها في الماء الساخن."
+         }
+      ],
+      "Typical dosages":[
+         "مسحوق القرفة في الدراسات استخدم غالبًا بجرعات تقريبية 1–6 غرام يوميًا.",
+         "مستخلصات القرفة تختلف حسب التركيز ويجب اتباع تعليمات المنتج."
+      ],
+      "Warnings":[
+         "مرضى الكبد خاصة عند استخدام جرعات عالية لفترات طويلة",
+         "الأشخاص الذين يتناولون أدوية تؤثر على تخثر الدم",
+         "قبل العمليات الجراحية"
+      ],
+      "Side effects":[
+         "تهيج الفم",
+         "اضطرابات المعدة",
+         "الحساسية",
+         "مشاكل كبدية محتملة عند الجرعات العالية من قرفة الكاسيا"
+      ],
+      "Pregnancy and Lactation":[
+         "استخدام القرفة كتوابل غذائية غالبًا آمن",
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل دون استشارة الطبيب",
+         "المعلومات حول الجرعات العالية أثناء الرضاعة محدودة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Cinnamomum verum / Cinnamomum cassia bark.",
+         "Ranasinghe P, et al.\nMedicinal properties of Cinnamomum zeylanicum: A systematic review.\nBMC Complementary and Alternative Medicine.",
+         "Allen RW, et al.\nCinnamon use in type 2 diabetes: An updated systematic review.\nAnnals of Family Medicine."
+      ]
+   },
+   {
+      "name_en_plant":"Thyme",
+      "name_ar_plant":"الزعتر",
+      "name_latiny_plant":"Thymus vulgaris L.",
+      "plant_category":"2",
+      "image_plant":"Thyme.jpg",
+      "desc_plant":"الزعتر نبات عشبي عطري معمر، تستخدم \nأوراقه وقممه الزهرية طبيًا، ويتميز باحتوائه\n على زيوت طيارة غنية بالثيمول والكارفاكرول.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"الثيمول Thymol",
+            "desc":"مركب فينولي مسؤول عن النشاط المضاد للميكروبات."
+         },
+         {
+            "name":"الكارفاكرول Carvacrol",
+            "desc":"مركب عطري له تأثيرات مضادة للبكتيريا والأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تخفيف السعال ودعم صحة الجهاز التنفسي",
+         "ben2":"التأثير المضاد للميكروبات",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"تحسين الهضم"
+      },
+      "Traditional uses":[
+         "السعال",
+         "التهاب الحلق",
+         "نزلات البرد",
+         "الغازات",
+         "مشاكل الهضم"
+      ],
+      "Modern uses":[
+         "شرابات السعال المحتوية على مستخلص الزعتر",
+         "مستحضرات الفم والحلق",
+         "الزيوت العطرية"
+      ],
+      "How to use":[
+         {
+            "use":"شاي الزعتر",
+            "desc_use":"نقع الأوراق المجففة في الماء الساخن."
+         },
+         {
+            "use":"زيت الزعتر",
+            "desc_use":"يستخدم خارجيًا بعد التخفيف."
+         }
+      ],
+      "Typical dosages":[
+         "شاي الزعتر يحضر عادة باستخدام 1–2 غرام من العشبة المجففة.",
+         "المستخلصات تختلف حسب تركيز المنتج."
+      ],
+      "Warnings":[
+         "الحساسية من نباتات الفصيلة الشفوية",
+         "الاستخدام الداخلي للزيت المركز"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الغثيان",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن",
+         "الجرعات العلاجية العالية والزيت العطري غير موصى بها أثناء الحمل دون استشارة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Thymus vulgaris L., herba.",
+         "World Health Organization (WHO).\nWHO Monographs on Selected Medicinal Plants – Thyme.",
+         "Salehi B, et al.\nThyme: A review of its phytochemistry and pharmacological activities.\nPhytotherapy Research."
+      ]
+   },
+   {
+      "name_en_plant":"Sage",
+      "name_ar_plant":"الميرمية",
+      "name_latiny_plant":"Salvia officinalis L.",
+      "plant_category":"1",
+      "image_plant":"Sage.jpg",
+      "desc_plant":"الميرمية نبات عشبي عطري معمر من الفصيلة الشفوية، تستخدم أوراقه طبيًا، وتتميز باحتوائها على زيوت طيارة ومركبات فينولية ذات تأثيرات مضادة للأكسدة والالتهاب.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"الثوجون Thujone",
+            "desc":"أحد مكونات الزيت العطري وله تأثيرات على الجهاز العصبي عند الجرعات العالية."
+         },
+         {
+            "name":"حمض الروزمارينيك Rosmarinic acid",
+            "desc":"مركب فينولي يمتلك خصائص مضادة للأكسدة."
+         },
+         {
+            "name":"الكامفور Camphor",
+            "desc":"مركب عطري موجود ضمن الزيت الطيار."
+         }
+      ],
+      "benefits":{
+         "ben1":"تحسين الذاكرة والتركيز",
+         "ben2":"تقليل التعرق والهبات الساخنة",
+         "ben3":"دعم صحة الفم والحلق",
+         "ben4":"التأثير المضاد للأكسدة"
+      },
+      "Traditional uses":[
+         "مشاكل الهضم",
+         "التهاب الحلق",
+         "نزلات البرد",
+         "زيادة التعرق",
+         "ضعف الذاكرة"
+      ],
+      "Modern uses":[
+         "مستحضرات الفم والحلق",
+         "شاي الميرمية",
+         "مكملات نباتية"
+      ],
+      "How to use":[
+         {
+            "use":"شاي الميرمية",
+            "desc_use":"نقع الأوراق المجففة في الماء الساخن."
+         },
+         {
+            "use":"الغرغرة بالميرمية",
+            "desc_use":"استخدام المنقوع للمساعدة في تهدئة الحلق."
+         }
+      ],
+      "Typical dosages":[
+         "يستخدم عادة 1–3 غرام من الأوراق المجففة لتحضير الشاي.",
+         "المستخلصات تختلف حسب تركيز المنتج."
+      ],
+      "Warnings":[
+         "الجرعات العالية بسبب احتوائها على الثوجون",
+         "مرضى الصرع",
+         "الحمل والجرعات العلاجية العالية"
+      ],
+      "Side effects":[
+         "الغثيان",
+         "الدوخة",
+         "اضطرابات المعدة",
+         "الحساسية"
+      ],
+      "Pregnancy and Lactation":[
+         "استخدامها كتوابل غالبًا آمن",
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل",
+         "يفضل تجنب الجرعات العالية أثناء الرضاعة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Salvia officinalis L., folium.",
+         "World Health Organization (WHO).\nWHO Monographs on Selected Medicinal Plants – Sage.",
+         "Ghorbani A, Esmaeilizadeh M.\nPharmacological properties of Salvia officinalis.\nJournal of Traditional and Complementary Medicine."
+      ]
+   },
+   {
+      "name_en_plant":"Green Tea",
+      "name_ar_plant":"الشاي الأخضر",
+      "name_latiny_plant":"Camellia sinensis (L.) Kuntze",
+      "plant_category":"4",
+      "image_plant":"GreenTea.jpg",
+      "desc_plant":"الشاي الأخضر هو أوراق نبات الشاي غير المؤكسدة، ويتميز باحتوائه على نسبة عالية من البوليفينولات والكاتيكينات، خاصة EGCG.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"الكاتيكينات Catechins",
+            "desc":"أهمها EGCG المسؤول عن معظم التأثيرات المضادة للأكسدة."
+         },
+         {
+            "name":"الكافيين Caffeine",
+            "desc":"مركب منبه يساعد على زيادة اليقظة."
+         },
+         {
+            "name":"الثيانين L-Theanine",
+            "desc":"حمض أميني قد يساعد على تحسين التركيز والاسترخاء."
+         }
+      ],
+      "benefits":{
+         "ben1":"التأثير المضاد للأكسدة",
+         "ben2":"دعم صحة القلب والأوعية",
+         "ben3":"تحسين اليقظة والتركيز",
+         "ben4":"المساعدة في التحكم بالوزن"
+      },
+      "Traditional uses":[
+         "زيادة النشاط",
+         "تحسين التركيز",
+         "دعم الهضم",
+         "تقليل التعب"
+      ],
+      "Modern uses":[
+         "مشروب صحي يومي",
+         "مكملات تحتوي على مستخلص الشاي الأخضر",
+         "مستحضرات جلدية"
+      ],
+      "How to use":[
+         {
+            "use":"الشاي الأخضر",
+            "desc_use":"نقع الأوراق في ماء ساخن."
+         },
+         {
+            "use":"مستخلص الشاي الأخضر",
+            "desc_use":"كبسولات أو أقراص تحتوي على مركبات معيارية."
+         }
+      ],
+      "Typical dosages":[
+         "عادة 2–4 أكواب يوميًا حسب تحمل الكافيين.",
+         "جرعات المستخلصات تختلف حسب كمية EGCG."
+      ],
+      "Warnings":[
+         "الأشخاص الحساسون للكافيين",
+         "مرضى الكبد عند استخدام المستخلصات المركزة",
+         "تناوله على معدة فارغة بجرعات عالية"
+      ],
+      "Side effects":[
+         "الأرق",
+         "القلق",
+         "خفقان القلب",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "يمكن تناوله بكميات معتدلة مع مراعاة كمية الكافيين",
+         "تجنب الجرعات العالية من المستخلصات أثناء الحمل والرضاعة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Camellia sinensis.",
+         "Khan N, Mukhtar H.\nTea polyphenols for health promotion.\nLife Sciences.",
+         "Cabrera C, Artacho R, Giménez R.\nBeneficial effects of green tea.\nJournal of the American College of Nutrition."
+      ]
+   },
+   {
+      "name_en_plant":"Aloe Vera",
+      "name_ar_plant":"الصبار (الألوفيرا)",
+      "name_latiny_plant":"Aloe vera (L.) Burm.f.",
+      "plant_category":"5",
+      "image_plant":"AloeVera.jpg",
+      "desc_plant":"الصبار نبات عصاري معمر، الجزء المستخدم طبيًا هو الجل الموجود داخل الأوراق والعصارة الصفراء الموجودة تحت القشرة. يستخدم خصوصًا في مستحضرات الجلد وبعض الاستخدامات الهضمية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"الأسيمنان Acemannan",
+            "desc":"عديد سكريات يرتبط ببعض التأثيرات المناعية ودعم التئام الجلد."
+         },
+         {
+            "name":"الأنثراكينونات Anthraquinones",
+            "desc":"مثل Aloin وAloe-emodin وهي مسؤولة عن التأثير الملين."
+         },
+         {
+            "name":"المركبات الفينولية",
+            "desc":"تمتلك خصائص مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في التئام الجروح والحروق البسيطة",
+         "ben2":"ترطيب وتهدئة الجلد",
+         "ben3":"تخفيف بعض تهيجات الجلد",
+         "ben4":"تخفيف الإمساك باستخدام مستحضرات اللاتكس"
+      },
+      "Traditional uses":[
+         "الحروق",
+         "الجروح",
+         "تهيج الجلد",
+         "الإمساك",
+         "مشاكل البشرة"
+      ],
+      "Modern uses":[
+         "جل الألوفيرا في المستحضرات الجلدية",
+         "مستحضرات العناية بالبشرة",
+         "بعض المستحضرات الملينة"
+      ],
+      "How to use":[
+         {
+            "use":"جل الألوفيرا الموضعي",
+            "desc_use":"يوضع على الجلد حسب تعليمات المنتج."
+         },
+         {
+            "use":"مستحضرات الصبار الفموية",
+            "desc_use":"تستخدم فقط المنتجات المخصصة للاستهلاك وبجرعات محددة."
+         }
+      ],
+      "Typical dosages":[
+         "الاستخدام الموضعي حسب الحاجة وتركيز المنتج.",
+         "مستحضرات اللاتكس الملينة تستخدم لفترة قصيرة فقط."
+      ],
+      "Warnings":[
+         "مرضى الكلى",
+         "مرضى القلب بسبب احتمال نقص البوتاسيوم",
+         "الاستخدام الطويل للاتكس"
+      ],
+      "Side effects":[
+         "الإسهال",
+         "مغص البطن",
+         "الجفاف",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح باستخدام لاتكس الصبار فمويًا أثناء الحمل",
+         "يفضل تجنب الجرعات العلاجية الفموية أثناء الرضاعة",
+         "الاستخدام الموضعي يحتاج للحذر عند وجود حساسية"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Aloe vera.",
+         "Surjushe A, Vasani R, Saple DG.\nAloe vera: A short review.\nIndian Journal of Dermatology.",
+         "Vogler BK, Ernst E.\nAloe vera: A systematic review of its clinical effectiveness.\nBritish Journal of General Practice."
+      ]
+   },
+   {
+      "name_en_plant":"Rosemary",
+      "name_ar_plant":"إكليل الجبل (الروزماري)",
+      "name_latiny_plant":"Salvia rosmarinus Spenn.",
+      "plant_category":"3",
+      "image_plant":"Rosemary.jpg",
+      "desc_plant":"إكليل الجبل نبات عطري معمر من الفصيلة الشفوية، تستخدم أوراقه طبيًا وغذائيًا، ويحتوي على زيوت طيارة ومركبات مضادة للأكسدة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"حمض الروزمارينيك Rosmarinic acid",
+            "desc":"مركب فينولي مضاد للأكسدة."
+         },
+         {
+            "name":"Carnosic acid",
+            "desc":"مركب ثنائي التربين له تأثيرات مضادة للأكسدة."
+         },
+         {
+            "name":"الزيوت الطيارة Essential oils",
+            "desc":"تحتوي على 1,8-Cineole وCamphor."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم الذاكرة والتركيز",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"التأثير المضاد للالتهاب",
+         "ben4":"تحسين الهضم"
+      },
+      "Traditional uses":[
+         "ضعف الذاكرة",
+         "الصداع",
+         "مشاكل الهضم",
+         "آلام العضلات",
+         "التعب"
+      ],
+      "Modern uses":[
+         "مستحضرات الشعر",
+         "الزيوت العطرية",
+         "مكملات مضادة للأكسدة"
+      ],
+      "How to use":[
+         {
+            "use":"شاي إكليل الجبل",
+            "desc_use":"نقع الأوراق المجففة في الماء الساخن."
+         },
+         {
+            "use":"زيت إكليل الجبل",
+            "desc_use":"يستخدم خارجيًا بعد التخفيف."
+         }
+      ],
+      "Typical dosages":[
+         "الشاي يستخدم عادة 1–2 غرام من الأوراق المجففة.",
+         "المستخلصات تختلف حسب التركيز."
+      ],
+      "Warnings":[
+         "الجرعات العالية من الزيت العطري",
+         "مرضى الصرع",
+         "الحمل بجرعات علاجية"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الغثيان",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن",
+         "لا ينصح بالجرعات العالية أو الزيت العطري أثناء الحمل",
+         "المعلومات حول الجرعات العالية أثناء الرضاعة محدودة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Rosmarinus officinalis.",
+         "Nieto G, Ros G, Castillo J.\nAntioxidant and antimicrobial properties of rosemary.\nMedicines.",
+         "Habtemariam S.\nThe therapeutic potential of rosemary diterpenes.\nPhytotherapy Research."
+      ]
+   },
+   {
+      "name_en_plant":"Lavender",
+      "name_ar_plant":"الخزامى (اللافندر)",
+      "name_latiny_plant":"Lavandula angustifolia Mill.",
+      "plant_category":"3",
+      "image_plant":"Lavender.jpg",
+      "desc_plant":"الخزامى نبات عطري معمر من الفصيلة الشفوية، تستخدم أزهاره وزيته العطري طبيًا. يتميز برائحة مميزة بسبب احتوائه على مركبات مثل اللينالول والليناليل أسيتات.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Linalool",
+            "desc":"مركب عطري يرتبط بتأثيرات مهدئة ومضادة للميكروبات."
+         },
+         {
+            "name":"Linalyl acetate",
+            "desc":"أحد المكونات الرئيسية للزيت العطري."
+         },
+         {
+            "name":"المركبات الفينولية Phenolic compounds",
+            "desc":"تساهم في النشاط المضاد للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تقليل القلق والتوتر الخفيف",
+         "ben2":"تحسين جودة النوم",
+         "ben3":"تخفيف بعض الآلام البسيطة",
+         "ben4":"التأثير المضاد للميكروبات"
+      },
+      "Traditional uses":[
+         "الأرق",
+         "القلق",
+         "الصداع",
+         "التعب العصبي",
+         "آلام العضلات"
+      ],
+      "Modern uses":[
+         "العلاج بالروائح Aromatherapy",
+         "مستحضرات النوم والاسترخاء",
+         "زيوت ومستحضرات الجلد"
+      ],
+      "How to use":[
+         {
+            "use":"شاي الخزامى",
+            "desc_use":"تحضير الأزهار المجففة بالماء الساخن."
+         },
+         {
+            "use":"زيت اللافندر",
+            "desc_use":"يستخدم بالاستنشاق أو خارجيًا بعد التخفيف."
+         }
+      ],
+      "Typical dosages":[
+         "شاي الخزامى يستخدم عادة من 1–3 غرام من الأزهار المجففة.",
+         "جرعات المستخلصات تختلف حسب التركيز."
+      ],
+      "Warnings":[
+         "الحساسية الجلدية",
+         "استخدام الزيت العطري غير المخفف",
+         "الحذر عند استخدام المهدئات"
+      ],
+      "Side effects":[
+         "تهيج الجلد",
+         "النعاس",
+         "اضطراب المعدة عند بعض الأشخاص"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام العطري المعتدل غالبًا مقبول",
+         "يجب تجنب الجرعات العلاجية العالية أثناء الحمل دون استشارة الطبيب",
+         "لا توجد معلومات كافية عن الجرعات العالية أثناء الرضاعة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Lavandula angustifolia.",
+         "Koulivand PH, Khaleghi Ghadiri M, Gorji A.\nLavender and the nervous system.\nEvidence-Based Complementary and Alternative Medicine.",
+         "Woelk H, Schläfke S.\nA multi-center trial of lavender oil preparation for anxiety.\nPhytomedicine."
+      ]
+   },
+   {
+      "name_en_plant":"Fenugreek",
+      "name_ar_plant":"الحلبة",
+      "name_latiny_plant":"Trigonella foenum-graecum L.",
+      "plant_category":"1",
+      "image_plant":"Fenugreek.jpg",
+      "desc_plant":"الحلبة نبات عشبي حولي من الفصيلة البقولية، تستخدم بذوره طبيًا وغذائيًا، وتتميز باحتوائها على ألياف وصابونينات ستيرويدية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Diosgenin",
+            "desc":"سابونين ستيرويدي مهم في بذور الحلبة."
+         },
+         {
+            "name":"Galactomannan",
+            "desc":"ألياف ذائبة قد تساعد في تنظيم سكر الدم."
+         },
+         {
+            "name":"Trigonelline",
+            "desc":"قلويد نباتي له نشاطات بيولوجية."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في تنظيم سكر الدم",
+         "ben2":"دعم إنتاج الحليب لدى بعض المرضعات",
+         "ben3":"تحسين الهضم",
+         "ben4":"تحسين بعض مؤشرات الدهون في الدم"
+      },
+      "Traditional uses":[
+         "ضعف الشهية",
+         "مشاكل الهضم",
+         "زيادة إدرار الحليب",
+         "آلام الدورة الشهرية"
+      ],
+      "Modern uses":[
+         "مكملات دعم سكر الدم",
+         "مكملات غذائية",
+         "مستحضرات عشبية"
+      ],
+      "How to use":[
+         {
+            "use":"بذور الحلبة",
+            "desc_use":"تنقع أو تضاف إلى الطعام."
+         },
+         {
+            "use":"مسحوق الحلبة",
+            "desc_use":"يستخدم كمشروب أو مكمل."
+         }
+      ],
+      "Typical dosages":[
+         "استخدمت الدراسات جرعات تقريبية 5–25 غرام يوميًا من مسحوق البذور حسب الهدف.",
+         "جرعات المكملات تختلف حسب التركيز."
+      ],
+      "Warnings":[
+         "مرضى السكري بسبب احتمال انخفاض السكر",
+         "الحساسية من البقوليات",
+         "الحمل بجرعات علاجية عالية"
+      ],
+      "Side effects":[
+         "الغازات",
+         "الانتفاخ",
+         "الإسهال",
+         "رائحة مميزة للعرق والبول"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالجرعات العالية أثناء الحمل",
+         "تستخدم تقليديًا للرضاعة لكن يجب الحذر من الجرعات العالية"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Trigonella foenum-graecum.",
+         "Neelakantan N, et al.\nEffect of fenugreek on glycemic control: A meta-analysis.\nNutrition Journal.",
+         "Wani SA, Kumar P.\nFenugreek: A review on its nutraceutical properties."
+      ]
+   },
+   {
+      "name_en_plant":"Fennel",
+      "name_ar_plant":"الشمر",
+      "name_latiny_plant":"Foeniculum vulgare Mill.",
+      "plant_category":"1",
+      "image_plant":"Fennel.jpg",
+      "desc_plant":"الشمر نبات عشبي عطري من الفصيلة الخيمية، تستخدم ثماره وأوراقه طبيًا، ويتميز برائحة اليانسون بسبب احتوائه على مركب الأنثول والزيوت الطيارة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Anethole",
+            "desc":"المركب الرئيسي في الزيت العطري والمسؤول عن الرائحة والنشاطات الدوائية."
+         },
+         {
+            "name":"Fenchone",
+            "desc":"مركب عطري موجود في الزيت الطيار."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية ذات نشاط مضاد للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تخفيف الانتفاخ والغازات",
+         "ben2":"تحسين عسر الهضم",
+         "ben3":"تخفيف تقلصات الجهاز الهضمي",
+         "ben4":"المساعدة في تخفيف آلام الدورة الشهرية"
+      },
+      "Traditional uses":[
+         "المغص",
+         "الغازات",
+         "عسر الهضم",
+         "السعال",
+         "مشاكل الرضاعة"
+      ],
+      "Modern uses":[
+         "شاي الشمر",
+         "مستخلصات الجهاز الهضمي",
+         "مستحضرات عشبية"
+      ],
+      "How to use":[
+         {
+            "use":"منقوع الشمر",
+            "desc_use":"تنقع الثمار المجففة في الماء الساخن."
+         },
+         {
+            "use":"بذور الشمر",
+            "desc_use":"تستخدم كتوابل أو ضمن الأغذية."
+         }
+      ],
+      "Typical dosages":[
+         "1–3 غرام من ثمار الشمر المجففة لتحضير المنقوع.",
+         "المستخلصات تختلف حسب تركيز المنتج."
+      ],
+      "Warnings":[
+         "الحساسية من نباتات الفصيلة الخيمية",
+         "الجرعات العالية من الزيت العطري"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الحساسية",
+         "الغثيان"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن",
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل",
+         "يستخدم تقليديًا أثناء الرضاعة لكن الأدلة محدودة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Foeniculum vulgare Mill.",
+         "Badgujar SB, et al.\nFoeniculum vulgare: A review of its botany, phytochemistry and pharmacology.\nBioMed Research International."
+      ]
+   },
+   {
+      "name_en_plant":"Anise",
+      "name_ar_plant":"اليانسون",
+      "name_latiny_plant":"Pimpinella anisum L.",
+      "plant_category":"1",
+      "image_plant":"Anise.jpg",
+      "desc_plant":"اليانسون نبات عشبي حولي من الفصيلة الخيمية، تستخدم ثماره طبيًا وغذائيًا، ويتميز بزيت عطري غني بمركب الأنثول.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"trans-Anethole",
+            "desc":"المكون الرئيسي للزيت العطري والمسؤول عن الطعم والرائحة."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تخفيف اضطرابات الهضم",
+         "ben2":"تقليل الغازات",
+         "ben3":"تهدئة السعال",
+         "ben4":"المساعدة في تخفيف آلام الدورة الشهرية"
+      },
+      "Traditional uses":[
+         "المغص",
+         "السعال",
+         "ضعف الشهية",
+         "عسر الهضم"
+      ],
+      "Modern uses":[
+         "شاي اليانسون",
+         "مستحضرات السعال",
+         "مكملات عشبية"
+      ],
+      "How to use":[
+         {
+            "use":"منقوع اليانسون",
+            "desc_use":"تنقع الثمار المجففة في الماء الساخن."
+         },
+         {
+            "use":"الثمار المجففة",
+            "desc_use":"تستخدم كتوابل غذائية."
+         }
+      ],
+      "Typical dosages":[
+         "1–3 غرام من الثمار المجففة لتحضير المنقوع.",
+         "المستخلصات تختلف حسب التركيز."
+      ],
+      "Warnings":[
+         "الحساسية من النباتات الخيمية",
+         "الجرعات العلاجية العالية"
+      ],
+      "Side effects":[
+         "الحساسية",
+         "اضطرابات المعدة",
+         "الغثيان"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن",
+         "تجنب الجرعات العلاجية العالية أثناء الحمل دون استشارة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Pimpinella anisum.",
+         "WHO Monographs on Selected Medicinal Plants."
+      ]
+   },
+   {
+      "name_en_plant":"Licorice",
+      "name_ar_plant":"العرقسوس",
+      "name_latiny_plant":"Glycyrrhiza glabra L.",
+      "plant_category":"1",
+      "image_plant":"Licorice.jpg",
+      "desc_plant":"العرقسوس نبات عشبي معمر من الفصيلة البقولية، الجزء المستخدم طبيًا هو الجذر والجذمور، ويتميز بطعمه الحلو بسبب احتوائه على مركب الغليسيريزين.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Glycyrrhizin",
+            "desc":"سابونين ثلاثي التربين مسؤول عن الطعم الحلو وبعض التأثيرات الدوائية."
+         },
+         {
+            "name":"Liquiritin",
+            "desc":"مركب فلافونويدي موجود في الجذر."
+         },
+         {
+            "name":"Liquiritigenin",
+            "desc":"مركب فينولي ذو نشاطات بيولوجية."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة الجهاز الهضمي",
+         "ben2":"تهدئة السعال والتهاب الحلق",
+         "ben3":"التأثير المضاد للالتهاب",
+         "ben4":"التأثير المضاد للأكسدة"
+      },
+      "Traditional uses":[
+         "قرحة المعدة",
+         "السعال",
+         "التهاب الحلق",
+         "اضطرابات الهضم"
+      ],
+      "Modern uses":[
+         "مستحضرات الحلق والسعال",
+         "مستخلص DGL للمعدة",
+         "مكملات عشبية"
+      ],
+      "How to use":[
+         {
+            "use":"جذر العرقسوس",
+            "desc_use":"يستخدم كشاي أو منقوع."
+         },
+         {
+            "use":"مستخلص منزوع الغليسيريزين DGL",
+            "desc_use":"يستخدم في بعض مستحضرات المعدة."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب نوع المستخلص.",
+         "لا ينصح بالاستخدام الطويل للعرقسوس المحتوي على Glycyrrhizin بجرعات عالية."
+      ],
+      "Warnings":[
+         "ارتفاع ضغط الدم",
+         "أمراض القلب",
+         "أمراض الكلى",
+         "انخفاض البوتاسيوم"
+      ],
+      "Side effects":[
+         "احتباس السوائل",
+         "ارتفاع ضغط الدم",
+         "ضعف العضلات",
+         "اضطراب ضربات القلب"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل.",
+         "يفضل تجنب الجرعات العالية أثناء الرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Glycyrrhiza glabra L.",
+         "WHO Monographs on Selected Medicinal Plants – Liquorice Root.",
+         "Isbrucker RA, Burdock GA.\nRisk and safety assessment on the consumption of licorice root.\nRegulatory Toxicology and Pharmacology."
+      ]
+   },
+   {
+      "name_en_plant":"Ginseng",
+      "name_ar_plant":"الجنسنغ الكوري",
+      "name_latiny_plant":"Panax ginseng C.A.Mey.",
+      "plant_category":"2",
+      "image_plant":"Ginseng.jpg",
+      "desc_plant":"الجنسنغ نبات عشبي معمر، الجزء المستخدم طبيًا هو الجذر، ويحتوي على مركبات الجينسنوسيدات التي تعد المواد الفعالة الرئيسية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Ginsenosides",
+            "desc":"المركبات الرئيسية المسؤولة عن معظم التأثيرات الدوائية."
+         },
+         {
+            "name":"Polysaccharides",
+            "desc":"قد تساهم في دعم وظائف المناعة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تقليل التعب والإرهاق",
+         "ben2":"تحسين التركيز والوظائف العقلية",
+         "ben3":"دعم جهاز المناعة",
+         "ben4":"المساعدة في تحسين ضعف الانتصاب"
+      },
+      "Traditional uses":[
+         "زيادة الطاقة",
+         "تقوية الجسم",
+         "تحسين الذاكرة",
+         "مقاومة التعب"
+      ],
+      "Modern uses":[
+         "مكملات الطاقة",
+         "مستحضرات دعم المناعة",
+         "مكملات الأداء الذهني"
+      ],
+      "How to use":[
+         {
+            "use":"جذر الجنسنغ",
+            "desc_use":"يستخدم كشاي أو مسحوق."
+         },
+         {
+            "use":"مستخلص الجنسنغ",
+            "desc_use":"كبسولات أو أقراص معيارية."
+         }
+      ],
+      "Typical dosages":[
+         "مسحوق الجذر غالبًا 1–2 غرام يوميًا.",
+         "المستخلصات تختلف حسب نسبة الجينسنوسيدات."
+      ],
+      "Warnings":[
+         "مرضى السكري",
+         "اضطرابات النوم",
+         "الحذر مع مميعات الدم"
+      ],
+      "Side effects":[
+         "الأرق",
+         "الصداع",
+         "اضطراب المعدة",
+         "العصبية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن أمان الجرعات العلاجية.",
+         "يفضل تجنب المكملات أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "WHO Monographs on Selected Medicinal Plants – Ginseng Root.",
+         "Geng J, et al.\nGinseng for cognition.\nCochrane Database of Systematic Reviews.",
+         "Shergis JL, et al.\nPanax ginseng in fatigue.\nPLOS ONE."
+      ]
+   },
+   {
+      "name_en_plant":"Chamomile",
+      "name_ar_plant":"البابونج",
+      "name_latiny_plant":"Matricaria chamomilla L.",
+      "plant_category":"3",
+      "image_plant":"Chamomile.jpg",
+      "desc_plant":"البابونج نبات عشبي عطري حولي من الفصيلة النجمية، تستخدم أزهاره طبيًا، ويتميز باحتوائه على مركبات الفلافونويد والزيوت الطيارة التي ترتبط بتأثيراته المهدئة والمضادة للالتهاب.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Apigenin",
+            "desc":"فلافونويد يرتبط بتأثيرات مهدئة على الجهاز العصبي."
+         },
+         {
+            "name":"Chamazulene",
+            "desc":"مركب عطري ينتج من الزيت الطيار وله تأثيرات مضادة للالتهاب."
+         },
+         {
+            "name":"Bisabolol",
+            "desc":"مركب عطري يمتلك خصائص مهدئة للجلد."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في تحسين جودة النوم",
+         "ben2":"تقليل القلق والتوتر الخفيف",
+         "ben3":"تخفيف اضطرابات الجهاز الهضمي",
+         "ben4":"التأثير المضاد للالتهاب"
+      },
+      "Traditional uses":[
+         "الأرق",
+         "القلق",
+         "المغص",
+         "عسر الهضم",
+         "التهابات الجلد"
+      ],
+      "Modern uses":[
+         "شاي البابونج للاسترخاء",
+         "مستحضرات الجلد",
+         "مكملات عشبية للنوم"
+      ],
+      "How to use":[
+         {
+            "use":"شاي البابونج",
+            "desc_use":"تنقع أزهار البابونج المجففة في الماء الساخن لمدة 5–10 دقائق."
+         },
+         {
+            "use":"مستخلص البابونج",
+            "desc_use":"يوجد على شكل كبسولات أو مستخلصات سائلة."
+         }
+      ],
+      "Typical dosages":[
+         "يستخدم عادة 1–4 غرام من الأزهار المجففة لتحضير الشاي.",
+         "جرعات المستخلصات تختلف حسب التركيز."
+      ],
+      "Warnings":[
+         "الحساسية من نباتات الفصيلة النجمية",
+         "الحذر مع مميعات الدم",
+         "الحذر عند استخدام المهدئات"
+      ],
+      "Side effects":[
+         "الحساسية الجلدية",
+         "الغثيان",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي المعتدل غالبًا آمن",
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل دون استشارة",
+         "البيانات حول الجرعات العالية أثناء الرضاعة محدودة"
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Matricaria recutita L., flos.",
+         "Srivastava JK, Shankar E, Gupta S.\nChamomile: A herbal medicine of the past with bright future.\nMolecular Medicine Reports.",
+         "Amsterdam JD, et al.\nChamomile therapy for generalized anxiety disorder.\nJournal of Clinical Psychopharmacology."
+      ]
+   },
+   {
+      "name_en_plant":"Flaxseed",
+      "name_ar_plant":"بذور الكتان",
+      "name_latiny_plant":"Linum usitatissimum L.",
+      "plant_category":"1",
+      "image_plant":"Flaxseed.jpg",
+      "desc_plant":"الكتان نبات عشبي حولي، تستخدم بذوره طبيًا وغذائيًا، وتتميز بغناها بالألياف وأحماض أوميغا-3 النباتية ومركبات الليغنان.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Alpha-linolenic acid (ALA)",
+            "desc":"حمض دهني من أحماض أوميغا-3 النباتية."
+         },
+         {
+            "name":"Lignans",
+            "desc":"مركبات نباتية ذات نشاط مضاد للأكسدة."
+         },
+         {
+            "name":"Soluble fiber",
+            "desc":"ألياف تساعد في دعم صحة الجهاز الهضمي."
+         }
+      ],
+      "benefits":{
+         "ben1":"تحسين صحة الجهاز الهضمي",
+         "ben2":"المساعدة في خفض الكوليسترول",
+         "ben3":"دعم صحة القلب",
+         "ben4":"المساعدة في تنظيم سكر الدم"
+      },
+      "Traditional uses":[
+         "الإمساك",
+         "تهدئة التهابات الجلد",
+         "مشاكل الهضم"
+      ],
+      "Modern uses":[
+         "مكملات الألياف",
+         "الأغذية الصحية",
+         "زيت بذور الكتان"
+      ],
+      "How to use":[
+         {
+            "use":"بذور الكتان المطحونة",
+            "desc_use":"تضاف إلى الطعام أو المشروبات."
+         },
+         {
+            "use":"زيت بذور الكتان",
+            "desc_use":"يستخدم كمصدر لأحماض أوميغا-3 النباتية."
+         }
+      ],
+      "Typical dosages":[
+         "غالبًا 10–30 غرام يوميًا من بذور الكتان المطحونة.",
+         "يجب تناولها مع كمية كافية من الماء."
+      ],
+      "Warnings":[
+         "انسداد الأمعاء أو مشاكل البلع",
+         "الحذر مع مميعات الدم",
+         "الحذر مع أدوية السكري"
+      ],
+      "Side effects":[
+         "الانتفاخ",
+         "الغازات",
+         "الإسهال عند الجرعات العالية"
+      ],
+      "Pregnancy and Lactation":[
+         "الكميات الغذائية غالبًا آمنة",
+         "يفضل استشارة الطبيب قبل استخدام الجرعات العلاجية العالية"
+      ],
+      "Scientific References":[
+         "Pan A, et al.\nFlaxseed and cardiovascular risk factors.\nAmerican Journal of Clinical Nutrition.",
+         "European Food Safety Authority (EFSA).\nScientific opinion on flaxseed."
+      ]
+   },
+   {
+      "name_en_plant":"Hibiscus",
+      "name_ar_plant":"الكركديه",
+      "name_latiny_plant":"Hibiscus sabdariffa L.",
+      "plant_category":"4",
+      "image_plant":"Hibiscus.jpg",
+      "desc_plant":"الكركديه نبات عشبي حولي من الفصيلة الخبازية، يستخدم الكأس الزهري الأحمر طبيًا وغذائيًا، ويتميز بغناه بالأحماض العضوية والأنثوسيانينات ذات النشاط المضاد للأكسدة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Anthocyanins",
+            "desc":"صبغات نباتية مسؤولة عن اللون الأحمر ولها نشاط مضاد للأكسدة."
+         },
+         {
+            "name":"Organic acids",
+            "desc":"مثل حمض الستريك وحمض الماليك."
+         },
+         {
+            "name":"Polyphenols",
+            "desc":"مركبات نباتية ذات تأثيرات واقية للخلايا."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في خفض ضغط الدم بدرجة بسيطة",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"دعم صحة القلب والأوعية",
+         "ben4":"المساعدة في تحسين دهون الدم"
+      },
+      "Traditional uses":[
+         "ارتفاع ضغط الدم",
+         "العطش والحرارة",
+         "مشاكل الهضم",
+         "الإرهاق"
+      ],
+      "Modern uses":[
+         "مشروب الكركديه الصحي",
+         "مكملات مضادة للأكسدة",
+         "مستحضرات غذائية"
+      ],
+      "How to use":[
+         {
+            "use":"شاي الكركديه",
+            "desc_use":"تنقع الكؤوس الزهرية المجففة في الماء الساخن أو البارد."
+         },
+         {
+            "use":"مستخلص الكركديه",
+            "desc_use":"يوجد على شكل كبسولات أو مستخلصات مركزة."
+         }
+      ],
+      "Typical dosages":[
+         "يستخدم عادة 1.5–10 غرام من الكؤوس المجففة لتحضير المشروب.",
+         "المستخلصات تختلف حسب تركيز المركبات الفعالة."
+      ],
+      "Warnings":[
+         "انخفاض ضغط الدم",
+         "الحذر مع أدوية ضغط الدم",
+         "الحذر مع أدوية السكري"
+      ],
+      "Side effects":[
+         "انخفاض ضغط الدم",
+         "اضطراب المعدة",
+         "الغثيان عند بعض الأشخاص"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل لعدم كفاية البيانات.",
+         "الاستخدام الغذائي المعتدل يحتاج إلى تقييم حسب الحالة."
+      ],
+      "Scientific References":[
+         "Hopkins AL, et al.\nHibiscus sabdariffa L. in the treatment of hypertension.\nFitoterapia.",
+         "McKay DL, Chen CY, Saltzman E, Blumberg JB.\nHibiscus tea lowers blood pressure in prehypertensive and mildly hypertensive adults.\nJournal of Nutrition.",
+         "European Medicines Agency (EMA).\nAssessment of herbal substances containing Hibiscus sabdariffa."
+      ]
+   },
+   {
+      "name_en_plant":"Black Seed",
+      "name_ar_plant":"الحبة السوداء (حبة البركة)",
+      "name_latiny_plant":"Nigella sativa L.",
+      "plant_category":"2",
+      "image_plant":"BlackSeed.jpg",
+      "desc_plant":"الحبة السوداء نبات عشبي حولي من الفصيلة الحوذانية، تستخدم بذوره وزيته طبيًا، وتحتوي على مركب الثيموكينون الذي يعد من أهم المواد الفعالة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Thymoquinone",
+            "desc":"المركب الرئيسي المسؤول عن العديد من التأثيرات المضادة للأكسدة والالتهاب."
+         },
+         {
+            "name":"Nigellidine",
+            "desc":"قلويد نباتي موجود في البذور."
+         },
+         {
+            "name":"Essential oils",
+            "desc":"زيوت طيارة تحتوي على مركبات عطرية."
+         }
+      ],
+      "benefits":{
+         "ben1":"التأثير المضاد للالتهاب",
+         "ben2":"دعم جهاز المناعة",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"المساعدة في تحسين بعض مؤشرات سكر الدم"
+      },
+      "Traditional uses":[
+         "السعال",
+         "نزلات البرد",
+         "مشاكل الهضم",
+         "تقوية الجسم"
+      ],
+      "Modern uses":[
+         "زيت الحبة السوداء",
+         "مكملات غذائية",
+         "مستحضرات جلدية"
+      ],
+      "How to use":[
+         {
+            "use":"بذور الحبة السوداء",
+            "desc_use":"تستخدم كغذاء أو تضاف إلى الطعام."
+         },
+         {
+            "use":"زيت الحبة السوداء",
+            "desc_use":"يستخدم داخليًا أو خارجيًا حسب المنتج."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب شكل الاستخدام والتركيز.",
+         "الدراسات استخدمت جرعات مختلفة من الزيت أو المسحوق."
+      ],
+      "Warnings":[
+         "الحمل بجرعات علاجية عالية",
+         "الحذر مع أدوية خفض سكر الدم",
+         "الحذر مع أدوية ضغط الدم"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الغثيان",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن.",
+         "لا ينصح بالجرعات العلاجية العالية أثناء الحمل."
+      ],
+      "Scientific References":[
+         "Ahmad A, et al.\nA review on therapeutic potential of Nigella sativa.\nAsian Pacific Journal of Tropical Biomedicine.",
+         "Gholamnezhad Z, et al.\nEffects of Nigella sativa on immune system.\nJournal of Ethnopharmacology."
+      ]
+   },
+   {
+      "name_en_plant":"Moringa",
+      "name_ar_plant":"المورينغا",
+      "name_latiny_plant":"Moringa oleifera Lam.",
+      "plant_category":"2",
+      "image_plant":"Moringa.jpg",
+      "desc_plant":"المورينغا نبات شجري سريع النمو من الفصيلة البانية، تستخدم أوراقه وبذوره طبيًا وغذائيًا، وتتميز بغناها بالبروتينات والفيتامينات والمركبات النباتية النشطة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Quercetin",
+            "desc":"فلافونويد نباتي يمتلك خصائص مضادة للأكسدة."
+         },
+         {
+            "name":"Chlorogenic acid",
+            "desc":"مركب فينولي قد يساهم في تنظيم استقلاب الغلوكوز."
+         },
+         {
+            "name":"Isothiocyanates",
+            "desc":"مركبات كبريتية ذات نشاطات بيولوجية."
+         }
+      ],
+      "benefits":{
+         "ben1":"التأثير المضاد للأكسدة",
+         "ben2":"دعم التغذية العامة",
+         "ben3":"المساعدة في تنظيم سكر الدم",
+         "ben4":"التأثير المضاد للالتهاب"
+      },
+      "Traditional uses":[
+         "سوء التغذية",
+         "التعب",
+         "الالتهابات",
+         "مشاكل الهضم"
+      ],
+      "Modern uses":[
+         "مسحوق أوراق المورينغا",
+         "مكملات غذائية",
+         "أغذية وظيفية"
+      ],
+      "How to use":[
+         {
+            "use":"مسحوق أوراق المورينغا",
+            "desc_use":"يضاف إلى العصائر أو الطعام."
+         },
+         {
+            "use":"أوراق المورينغا",
+            "desc_use":"تستخدم مطبوخة أو مجففة."
+         }
+      ],
+      "Typical dosages":[
+         "تستخدم الدراسات عادة 2–10 غرام يوميًا من مسحوق الأوراق.",
+         "تختلف الجرعات حسب الهدف والتركيز."
+      ],
+      "Warnings":[
+         "الحمل خاصة مستخلصات الجذر أو اللحاء",
+         "الحذر مع أدوية السكري",
+         "الحذر مع أدوية ضغط الدم"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الإسهال",
+         "الغثيان"
+      ],
+      "Pregnancy and Lactation":[
+         "استخدام الأوراق كغذاء غالبًا آمن.",
+         "تجنب مستخلصات الجذر والجرعات العالية أثناء الحمل.",
+         "البيانات حول الجرعات العلاجية أثناء الرضاعة محدودة."
+      ],
+      "Scientific References":[
+         "Stohs SJ, Hartman MJ.\nReview of the safety and efficacy of Moringa oleifera.\nPhytotherapy Research.",
+         "Fahey JW.\nMoringa oleifera: A review of the medical evidence.\nTrees for Life Journal."
+      ]
+   },
+   {
+      "name_en_plant":"Milk Thistle",
+      "name_ar_plant":"الخرفيش (شوكة مريم)",
+      "name_latiny_plant":"Silybum marianum (L.) Gaertn.",
+      "plant_category":"2",
+      "image_plant":"MilkThistle.jpg",
+      "desc_plant":"الخرفيش نبات عشبي من الفصيلة النجمية، تستخدم ثماره طبيًا، وتحتوي على مركب السيليمارين الذي يعد المادة الفعالة الرئيسية المرتبطة بحماية الكبد.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Silymarin",
+            "desc":"خليط من مركبات الفلافونوليجنان أهمها Silybin."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة الكبد",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"تقليل الإجهاد التأكسدي",
+         "ben4":"دعم وظائف الخلايا الكبدية"
+      },
+      "Traditional uses":[
+         "مشاكل الكبد",
+         "اضطرابات الهضم",
+         "التسممات التقليدية"
+      ],
+      "Modern uses":[
+         "مكملات دعم الكبد",
+         "مستخلصات السيليمارين"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص السيليمارين",
+            "desc_use":"كبسولات أو أقراص معيارية."
+         },
+         {
+            "use":"ثمار الخرفيش",
+            "desc_use":"تستخدم ضمن المستحضرات العشبية."
+         }
+      ],
+      "Typical dosages":[
+         "الدراسات تستخدم غالبًا 140–420 ملغ يوميًا من السيليمارين حسب الحالة.",
+         "يجب اتباع تعليمات المنتج."
+      ],
+      "Warnings":[
+         "الحساسية من نباتات الفصيلة النجمية",
+         "الحذر مع أدوية الكبد",
+         "الحذر مع أدوية السكري"
+      ],
+      "Side effects":[
+         "الإسهال",
+         "الانتفاخ",
+         "الغثيان",
+         "الحساسية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن أمان الجرعات العلاجية.",
+         "يفضل تجنب المكملات أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Silybum marianum.",
+         "Abenavoli L, et al.\nMilk thistle in liver diseases: Past, present, future.\nPhytotherapy Research."
+      ]
+   },
+   {
+      "name_en_plant":"Valerian",
+      "name_ar_plant":"الناردين",
+      "name_latiny_plant":"Valeriana officinalis L.",
+      "plant_category":"3",
+      "image_plant":"Valerian.jpg",
+      "desc_plant":"الناردين نبات عشبي معمر، يستخدم جذره طبيًا، ويحتوي على مركبات ترتبط بتأثيراته المهدئة والمساعدة على النوم.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Valerenic acid",
+            "desc":"مركب رئيسي مرتبط بالتأثير المهدئ."
+         },
+         {
+            "name":"Iridoids (Valepotriates)",
+            "desc":"مركبات نباتية ذات نشاطات عصبية."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في تحسين النوم",
+         "ben2":"تقليل التوتر العصبي",
+         "ben3":"المساعدة في الاسترخاء",
+         "ben4":"تقليل القلق الخفيف"
+      },
+      "Traditional uses":[
+         "الأرق",
+         "القلق",
+         "التوتر",
+         "العصبية"
+      ],
+      "Modern uses":[
+         "مكملات النوم",
+         "مستخلصات عشبية مهدئة"
+      ],
+      "How to use":[
+         {
+            "use":"شاي الناردين",
+            "desc_use":"يحضّر من الجذر المجفف."
+         },
+         {
+            "use":"مستخلص الناردين",
+            "desc_use":"كبسولات أو قطرات."
+         }
+      ],
+      "Typical dosages":[
+         "تستخدم الدراسات عادة 300–600 ملغ من المستخلص قبل النوم.",
+         "الجرعات تختلف حسب تركيز المستحضر."
+      ],
+      "Warnings":[
+         "عدم القيادة بعد الاستخدام بسبب احتمال النعاس",
+         "الحذر مع المهدئات والمنومات",
+         "الحذر مع الكحول"
+      ],
+      "Side effects":[
+         "النعاس",
+         "الدوخة",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الأمان.",
+         "يفضل تجنب الاستخدام العلاجي أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Valeriana officinalis.",
+         "Bent S, et al.\nValerian for sleep: A systematic review.\nAmerican Journal of Medicine."
+      ]
+   },
+   {
+      "name_en_plant":"Ginkgo biloba",
+      "name_ar_plant":"الجنكة",
+      "name_latiny_plant":"Ginkgo biloba L.",
+      "plant_category":"3",
+      "image_plant":"Ginkgo.jpg",
+      "desc_plant":"الجنكة شجرة معمرة قديمة جدًا، تستخدم أوراقها طبيًا، وتحتوي على مركبات الفلافونويد والتربينات الثلاثية التي ترتبط بتأثيراتها على الدورة الدموية والجهاز العصبي.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Flavonoid glycosides",
+            "desc":"مثل Quercetin وKaempferol، وهي مركبات مضادة للأكسدة."
+         },
+         {
+            "name":"Ginkgolides",
+            "desc":"مركبات تربينية توجد بشكل مميز في نبات الجنكة."
+         },
+         {
+            "name":"Bilobalide",
+            "desc":"مركب تربيني مرتبط بتأثيرات عصبية."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم الوظائف الإدراكية والذاكرة",
+         "ben2":"تحسين الدورة الدموية الطرفية",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"المساعدة في أعراض الدوخة المرتبطة ببعض اضطرابات الدورة الدموية"
+      },
+      "Traditional uses":[
+         "ضعف الذاكرة",
+         "الدوخة",
+         "مشاكل الدورة الدموية",
+         "التعب الذهني"
+      ],
+      "Modern uses":[
+         "مكملات دعم الذاكرة",
+         "مستخلصات معيارية للأوراق",
+         "مكملات مضادة للأكسدة"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص أوراق الجنكة",
+            "desc_use":"يستخدم كمستخلص معياري يحتوي على نسبة محددة من المركبات الفعالة."
+         },
+         {
+            "use":"أقراص أو كبسولات",
+            "desc_use":"تستخدم حسب تركيز المنتج."
+         }
+      ],
+      "Typical dosages":[
+         "الدراسات تستخدم غالبًا 120–240 ملغ يوميًا من المستخلص المعياري.",
+         "تختلف الجرعة حسب الهدف وتركيز المستخلص."
+      ],
+      "Warnings":[
+         "الأشخاص الذين يتناولون مميعات الدم",
+         "قبل العمليات الجراحية",
+         "مرضى الصرع"
+      ],
+      "Side effects":[
+         "الصداع",
+         "الدوخة",
+         "اضطرابات المعدة",
+         "الحساسية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الأمان.",
+         "يفضل تجنب الاستخدام العلاجي أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Ginkgo biloba L., folium.",
+         "Birks J, Grimley Evans J.\nGinkgo biloba for cognitive impairment and dementia.\nCochrane Database of Systematic Reviews.",
+         "WHO Monographs on Selected Medicinal Plants – Ginkgo Leaf."
+      ]
+   },
+   {
+      "name_en_plant":"Echinacea",
+      "name_ar_plant":"الإكيناسيا (القنفذية)",
+      "name_latiny_plant":"Echinacea purpurea (L.) Moench",
+      "plant_category":"2",
+      "image_plant":"Echinacea.jpg",
+      "desc_plant":"الإكيناسيا نبات عشبي معمر من الفصيلة النجمية، تستخدم أجزاؤه الهوائية والجذور طبيًا، ويشتهر باستخدامه لدعم جهاز المناعة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Alkamides",
+            "desc":"مركبات مرتبطة بتأثيرات مناعية."
+         },
+         {
+            "name":"Caffeic acid derivatives",
+            "desc":"مثل Chicoric acid ذات نشاط مضاد للأكسدة."
+         },
+         {
+            "name":"Polysaccharides",
+            "desc":"قد تساهم في تعديل الاستجابة المناعية."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم جهاز المناعة",
+         "ben2":"تقليل مدة أعراض نزلات البرد عند بعض الأشخاص",
+         "ben3":"التأثير المضاد للالتهاب",
+         "ben4":"التأثير المضاد للأكسدة"
+      },
+      "Traditional uses":[
+         "نزلات البرد",
+         "التهابات الجهاز التنفسي",
+         "الجروح الجلدية"
+      ],
+      "Modern uses":[
+         "مكملات المناعة",
+         "شرابات وأقراص البرد",
+         "مستخلصات عشبية"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص الإكيناسيا",
+            "desc_use":"يستخدم حسب تركيز المستحضر."
+         },
+         {
+            "use":"شاي الإكيناسيا",
+            "desc_use":"يحضر من الأجزاء النباتية المجففة."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب نوع المستخلص.",
+         "غالبًا تستخدم لفترات قصيرة أثناء أعراض البرد."
+      ],
+      "Warnings":[
+         "أمراض المناعة الذاتية",
+         "الأشخاص الذين يستخدمون مثبطات المناعة",
+         "الحساسية من الفصيلة النجمية"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الحساسية الجلدية",
+         "الطفح الجلدي"
+      ],
+      "Pregnancy and Lactation":[
+         "المعلومات غير كافية حول الاستخدام الطويل.",
+         "يفضل استشارة الطبيب قبل الاستخدام."
+      ],
+      "Scientific References":[
+         "Shah SA, et al.\nEvaluation of echinacea for the prevention and treatment of the common cold.\nThe Lancet Infectious Diseases.",
+         "European Medicines Agency (EMA).\nAssessment report on Echinacea purpurea."
+      ]
+   },
+   {
+      "name_en_plant":"Artichoke",
+      "name_ar_plant":"الخرشوف",
+      "name_latiny_plant":"Cynara scolymus L.",
+      "plant_category":"1",
+      "image_plant":"Artichoke.jpg",
+      "desc_plant":"الخرشوف نبات عشبي معمر من الفصيلة النجمية، تستخدم أوراقه طبيًا، ويحتوي على مركبات فينولية ترتبط بتأثيراته المضادة للأكسدة ودعم وظائف الكبد والجهاز الهضمي.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Cynarin",
+            "desc":"مركب فينولي يرتبط بتأثيرات على إفراز الصفراء ووظائف الكبد."
+         },
+         {
+            "name":"Chlorogenic acid",
+            "desc":"مركب مضاد للأكسدة موجود في الأوراق."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية ذات تأثيرات واقية للخلايا."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة الكبد",
+         "ben2":"تحسين الهضم وإفراز الصفراء",
+         "ben3":"المساعدة في خفض مستويات الكوليسترول",
+         "ben4":"التأثير المضاد للأكسدة"
+      },
+      "Traditional uses":[
+         "مشاكل الهضم",
+         "ضعف الشهية",
+         "اضطرابات الكبد",
+         "الانتفاخ"
+      ],
+      "Modern uses":[
+         "مكملات دعم الكبد",
+         "مستخلص أوراق الخرشوف",
+         "مكملات الكوليسترول"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص أوراق الخرشوف",
+            "desc_use":"يستخدم كمكمل حسب تركيز المنتج."
+         },
+         {
+            "use":"الخرشوف الغذائي",
+            "desc_use":"يؤكل كغذاء غني بالألياف."
+         }
+      ],
+      "Typical dosages":[
+         "الدراسات استخدمت غالبًا 600–1800 ملغ يوميًا من مستخلص الأوراق.",
+         "تختلف الجرعات حسب تركيز المستخلص."
+      ],
+      "Warnings":[
+         "انسداد القنوات الصفراوية",
+         "حصى المرارة",
+         "الحساسية من الفصيلة النجمية"
+      ],
+      "Side effects":[
+         "غازات",
+         "إسهال",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي آمن غالبًا.",
+         "لا توجد معلومات كافية عن الجرعات العلاجية أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Cynara scolymus L.",
+         "Wegener T, Fintelmann V.\nPharmacological properties of artichoke leaf extract."
+      ]
+   },
+   {
+      "name_en_plant":"Cardamom",
+      "name_ar_plant":"الهيل (الحبهان)",
+      "name_latiny_plant":"Elettaria cardamomum (L.) Maton",
+      "plant_category":"1",
+      "image_plant":"Cardamom.jpg",
+      "desc_plant":"الهيل نبات عطري من الفصيلة الزنجبيلية، تستخدم بذوره طبيًا وغذائيًا، ويتميز بزيوته الطيارة ومركباته العطرية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"1,8-Cineole",
+            "desc":"مركب عطري موجود في الزيت الطيار."
+         },
+         {
+            "name":"Terpinyl acetate",
+            "desc":"أحد المركبات المسؤولة عن رائحة الهيل."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات ذات نشاط مضاد للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تحسين الهضم وتقليل الغازات",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"المساعدة في دعم صحة القلب",
+         "ben4":"تحسين رائحة الفم"
+      },
+      "Traditional uses":[
+         "عسر الهضم",
+         "الغازات",
+         "الغثيان",
+         "رائحة الفم"
+      ],
+      "Modern uses":[
+         "توابل غذائية",
+         "مشروبات عشبية",
+         "مكملات نباتية"
+      ],
+      "How to use":[
+         {
+            "use":"بذور الهيل",
+            "desc_use":"تستخدم كتوابل أو في المشروبات."
+         },
+         {
+            "use":"شاي الهيل",
+            "desc_use":"تنقع البذور بالماء الساخن."
+         }
+      ],
+      "Typical dosages":[
+         "الجرعات تختلف حسب الاستخدام الغذائي أو المكملات.",
+         "لا توجد جرعات علاجية موحدة."
+      ],
+      "Warnings":[
+         "الحساسية المحتملة",
+         "الحذر عند استخدام المكملات المركزة"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الحساسية"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن.",
+         "تجنب الجرعات العلاجية العالية لعدم كفاية البيانات."
+      ],
+      "Scientific References":[
+         "Ashokkumar K, et al.\nCardamom phytochemistry and pharmacology.\nPhytotherapy Research."
+      ]
+   },
+   {
+      "name_en_plant":"Coriander",
+      "name_ar_plant":"الكزبرة",
+      "name_latiny_plant":"Coriandrum sativum L.",
+      "plant_category":"1",
+      "image_plant":"Coriander.jpg",
+      "desc_plant":"الكزبرة نبات عشبي حولي من الفصيلة الخيمية، تستخدم ثماره وأوراقه طبيًا وغذائيًا، وتحتوي على زيوت طيارة ومركبات فينولية ذات نشاطات بيولوجية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Linalool",
+            "desc":"المركب الرئيسي في الزيت العطري والمسؤول عن الرائحة المميزة."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية ذات تأثير مضاد للأكسدة."
+         },
+         {
+            "name":"Phenolic acids",
+            "desc":"مركبات تساهم في الحماية من الإجهاد التأكسدي."
+         }
+      ],
+      "benefits":{
+         "ben1":"تحسين عملية الهضم",
+         "ben2":"تقليل الغازات والانتفاخ",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"المساعدة في تنظيم بعض مؤشرات الدهون والسكر"
+      },
+      "Traditional uses":[
+         "عسر الهضم",
+         "الغازات",
+         "فقدان الشهية",
+         "اضطرابات المعدة"
+      ],
+      "Modern uses":[
+         "توابل غذائية",
+         "مستخلصات نباتية",
+         "زيوت عطرية"
+      ],
+      "How to use":[
+         {
+            "use":"بذور الكزبرة",
+            "desc_use":"تستخدم كتوابل أو تحضر كشاي."
+         },
+         {
+            "use":"أوراق الكزبرة",
+            "desc_use":"تستخدم طازجة ضمن الغذاء."
+         }
+      ],
+      "Typical dosages":[
+         "الاستخدام الغذائي حسب الحاجة.",
+         "لا توجد جرعات علاجية موحدة للمستخلصات."
+      ],
+      "Warnings":[
+         "الحساسية لدى بعض الأشخاص",
+         "الحذر مع أدوية السكري بسبب احتمال التأثير على السكر"
+      ],
+      "Side effects":[
+         "الحساسية",
+         "اضطراب المعدة عند الجرعات العالية"
+      ],
+      "Pregnancy and Lactation":[
+         "الكميات الغذائية غالبًا آمنة.",
+         "يفضل تجنب الجرعات العلاجية العالية أثناء الحمل."
+      ],
+      "Scientific References":[
+         "Laribi B, et al.\nCoriander (Coriandrum sativum L.) and its bioactive compounds.\nPhytotherapy Research.",
+         "WHO Monographs on Selected Medicinal Plants."
+      ]
+   },
+   {
+      "name_en_plant":"Parsley",
+      "name_ar_plant":"البقدونس",
+      "name_latiny_plant":"Petroselinum crispum (Mill.) Fuss",
+      "plant_category":"1",
+      "image_plant":"Parsley.jpg",
+      "desc_plant":"البقدونس نبات عشبي ثنائي الحول من الفصيلة الخيمية، تستخدم أوراقه وجذوره وبذوره غذائيًا وطبيًا، ويتميز باحتوائه على مركبات الفلافونويد والزيوت الطيارة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Apigenin",
+            "desc":"فلافونويد نباتي ذو خصائص مضادة للأكسدة."
+         },
+         {
+            "name":"Myristicin",
+            "desc":"مركب عطري موجود في الزيت الطيار."
+         },
+         {
+            "name":"Vitamin C",
+            "desc":"مضاد أكسدة طبيعي موجود بكميات جيدة في الأوراق."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم مضادات الأكسدة في الجسم",
+         "ben2":"دعم صحة الجهاز البولي",
+         "ben3":"تحسين القيمة الغذائية للطعام",
+         "ben4":"المساعدة في الهضم"
+      },
+      "Traditional uses":[
+         "إدرار البول",
+         "مشاكل الهضم",
+         "رائحة الفم",
+         "تنقية الجسم حسب الاستخدام الشعبي"
+      ],
+      "Modern uses":[
+         "غذاء غني بالفيتامينات",
+         "مكملات نباتية",
+         "مستخلصات عشبية"
+      ],
+      "How to use":[
+         {
+            "use":"أوراق البقدونس",
+            "desc_use":"تستخدم طازجة مع الطعام."
+         },
+         {
+            "use":"منقوع البقدونس",
+            "desc_use":"تحضير الأوراق بالماء الساخن."
+         }
+      ],
+      "Typical dosages":[
+         "الاستخدام الغذائي حسب الكمية الموجودة في الطعام.",
+         "لا توجد جرعات علاجية موحدة للمستخلصات."
+      ],
+      "Warnings":[
+         "الحمل بجرعات علاجية عالية",
+         "مرضى الكلى أو اضطرابات الأملاح"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الحساسية",
+         "زيادة التبول"
+      ],
+      "Pregnancy and Lactation":[
+         "الكميات الغذائية آمنة غالبًا.",
+         "تجنب الجرعات العالية أثناء الحمل."
+      ],
+      "Scientific References":[
+         "Farzaei MH, et al.\nParsley: A review of its pharmacology and phytochemistry.\nJournal of Traditional and Complementary Medicine."
+      ]
+   },
+   {
+      "name_en_plant":"Nettle",
+      "name_ar_plant":"القراص",
+      "name_latiny_plant":"Urtica dioica L.",
+      "plant_category":"4",
+      "image_plant":"Nettle.jpg",
+      "desc_plant":"القراص نبات عشبي معمر، تستخدم أوراقه وجذوره طبيًا، ويحتوي على مركبات نباتية قد ترتبط بتأثيرات مضادة للالتهاب ومدرة للبول.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات مضادة للأكسدة."
+         },
+         {
+            "name":"Caffeic acid derivatives",
+            "desc":"مركبات فينولية ذات نشاط بيولوجي."
+         },
+         {
+            "name":"Sterols",
+            "desc":"مركبات موجودة خصوصًا في الجذور."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في أعراض تضخم البروستاتا الحميد",
+         "ben2":"التأثير المضاد للالتهاب",
+         "ben3":"دعم صحة الجهاز البولي",
+         "ben4":"التأثير المدر للبول"
+      },
+      "Traditional uses":[
+         "آلام المفاصل",
+         "مشاكل البول",
+         "الحساسية الموسمية",
+         "التهابات الجلد"
+      ],
+      "Modern uses":[
+         "مكملات البروستاتا",
+         "شاي القراص",
+         "مستخلصات نباتية"
+      ],
+      "How to use":[
+         {
+            "use":"شاي القراص",
+            "desc_use":"تحضير الأوراق المجففة بالماء الساخن."
+         },
+         {
+            "use":"مستخلص الجذر",
+            "desc_use":"يستخدم في بعض مستحضرات البروستاتا."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب نوع المستخلص.",
+         "مستخلص الجذر يستخدم حسب تركيز المنتج."
+      ],
+      "Warnings":[
+         "الحذر مع مدرات البول",
+         "الحذر مع أدوية ضغط الدم",
+         "الحذر مع أدوية السكري"
+      ],
+      "Side effects":[
+         "زيادة التبول",
+         "اضطراب المعدة",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الجرعات العلاجية.",
+         "يفضل تجنب المكملات أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Urtica dioica.",
+         "Chrubasik JE, Roufogalis BD, Wagner H.\nA comprehensive review on nettle."
+      ]
+   },
+   {
+      "name_en_plant":"Elderberry",
+      "name_ar_plant":"البيلسان",
+      "name_latiny_plant":"Sambucus nigra L.",
+      "plant_category":"2",
+      "image_plant":"Elderberry.jpg",
+      "desc_plant":"البيلسان شجيرة معمرة من الفصيلة المسكية، تستخدم ثمارها وأزهارها طبيًا، وتتميز باحتوائها على الأنثوسيانينات والفلافونويدات ذات النشاط المضاد للأكسدة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Anthocyanins",
+            "desc":"صبغات نباتية مسؤولة عن اللون الداكن للثمار وتمتلك نشاطًا مضادًا للأكسدة."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية تساهم في التأثيرات المضادة للالتهاب."
+         },
+         {
+            "name":"Phenolic acids",
+            "desc":"مركبات ذات خصائص مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"تقليل مدة وشدة أعراض نزلات البرد",
+         "ben2":"دعم جهاز المناعة",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"المساعدة في صحة الجهاز التنفسي"
+      },
+      "Traditional uses":[
+         "نزلات البرد",
+         "السعال",
+         "الحمى",
+         "احتقان الأنف"
+      ],
+      "Modern uses":[
+         "شرابات البيلسان لنزلات البرد",
+         "مكملات المناعة",
+         "مستخلصات الثمار"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص ثمار البيلسان",
+            "desc_use":"يستخدم في المكملات التجارية حسب تركيز المنتج."
+         },
+         {
+            "use":"شاي أزهار البيلسان",
+            "desc_use":"يحضر من الأزهار المجففة."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب نوع المستخلص وتركيزه.",
+         "غالبًا تستخدم المستحضرات لفترة قصيرة أثناء أعراض البرد."
+      ],
+      "Warnings":[
+         "عدم تناول الثمار النيئة أو غير الناضجة",
+         "الحذر مع أدوية المناعة",
+         "الحساسية المحتملة"
+      ],
+      "Side effects":[
+         "الغثيان",
+         "الإسهال",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن أمان المكملات.",
+         "يفضل تجنب الجرعات العلاجية أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "Hawkins J, Baker C, Cherry L, Dunne E.\nBlack elderberry supplementation and respiratory disease.\nComplementary Therapies in Medicine.",
+         "European Medicines Agency (EMA).\nAssessment report on Sambucus nigra L."
+      ]
+   },
+   {
+      "name_en_plant":"Saw Palmetto",
+      "name_ar_plant":"البلميط المنشاري",
+      "name_latiny_plant":"Serenoa repens (W.Bartram) Small",
+      "plant_category":"6",
+      "image_plant":"SawPalmetto.jpg",
+      "desc_plant":"البلميط المنشاري نبات نخلي صغير، تستخدم ثماره طبيًا، وتحتوي على أحماض دهنية ومركبات ستيرويدية نباتية ترتبط باستخدامه في دعم صحة البروستاتا.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Fatty acids",
+            "desc":"مثل Lauric acid وOleic acid."
+         },
+         {
+            "name":"Phytosterols",
+            "desc":"مركبات نباتية شبيهة بالستيرولات."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في أعراض تضخم البروستاتا الحميد",
+         "ben2":"تحسين تدفق البول",
+         "ben3":"تقليل بعض أعراض المسالك البولية",
+         "ben4":"التأثير المضاد للالتهاب"
+      },
+      "Traditional uses":[
+         "مشاكل التبول عند الرجال",
+         "ضعف تدفق البول",
+         "اضطرابات البروستاتا"
+      ],
+      "Modern uses":[
+         "مكملات البروستاتا",
+         "مستخلصات الثمار المعيارية"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص ثمار البلميط",
+            "desc_use":"كبسولات أو أقراص تحتوي على مستخلص معياري."
+         }
+      ],
+      "Typical dosages":[
+         "الدراسات تستخدم غالبًا حوالي 320 ملغ يوميًا من المستخلص المعياري."
+      ],
+      "Warnings":[
+         "مرضى سرطان البروستاتا يجب أن يستشيروا الطبيب",
+         "الحذر مع الأدوية الهرمونية",
+         "قبل العمليات الجراحية"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الصداع",
+         "انخفاض الرغبة الجنسية لدى بعض الأشخاص"
+      ],
+      "Pregnancy and Lactation":[
+         "غير مخصص للاستخدام أثناء الحمل أو الرضاعة."
+      ],
+      "Scientific References":[
+         "Tacklind J, et al.\nSerenoa repens for benign prostatic hyperplasia.\nCochrane Database of Systematic Reviews.",
+         "European Medicines Agency (EMA).\nAssessment report on Serenoa repens fruit."
+      ]
+   },
+   {
+      "name_en_plant":"Hawthorn",
+      "name_ar_plant":"الزعرور",
+      "name_latiny_plant":"Crataegus monogyna Jacq.",
+      "plant_category":"4",
+      "image_plant":"Hawthorn.jpg",
+      "desc_plant":"الزعرور شجيرة تنتمي إلى الفصيلة الوردية، تستخدم أوراقها وأزهارها وثمارها طبيًا، وتحتوي على مركبات فلافونويدية تدعم صحة القلب والأوعية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Flavonoids",
+            "desc":"مثل Hyperoside وVitexin ذات تأثيرات مضادة للأكسدة."
+         },
+         {
+            "name":"Procyanidins",
+            "desc":"مركبات بوليفينولية موجودة في الثمار والأزهار."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة القلب",
+         "ben2":"المساعدة في تحسين أعراض قصور القلب الخفيف",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"دعم الدورة الدموية"
+      },
+      "Traditional uses":[
+         "خفقان القلب",
+         "ضعف القلب",
+         "القلق العصبي",
+         "مشاكل الدورة الدموية"
+      ],
+      "Modern uses":[
+         "مكملات القلب",
+         "مستخلصات الزعرور المعيارية"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص الزعرور",
+            "desc_use":"يستخدم حسب تركيز المستحضر."
+         },
+         {
+            "use":"شاي الزعرور",
+            "desc_use":"يحضر من الأوراق أو الأزهار المجففة."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف حسب المستخلص المستخدم.",
+         "الدراسات استخدمت جرعات مختلفة من المستخلصات المعيارية."
+      ],
+      "Warnings":[
+         "مرضى القلب الذين يتناولون أدوية قلبية",
+         "الحذر مع أدوية ضغط الدم",
+         "استشارة الطبيب في حالات القلب"
+      ],
+      "Side effects":[
+         "الدوخة",
+         "اضطراب المعدة",
+         "الصداع"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الأمان.",
+         "يفضل تجنب الاستخدام العلاجي أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "Pittler MH, Schmidt K, Ernst E.\nHawthorn extract for treating chronic heart failure.\nCochrane Database of Systematic Reviews.",
+         "European Medicines Agency (EMA).\nAssessment report on Crataegus species."
+      ]
+   },
+   {
+      "name_en_plant":"Olive Leaf",
+      "name_ar_plant":"أوراق الزيتون",
+      "name_latiny_plant":"Olea europaea L.",
+      "plant_category":"4",
+      "image_plant":"OliveLeaf.jpg",
+      "desc_plant":"شجرة الزيتون نبات معمر من الفصيلة الزيتونية، تستخدم أوراقها طبيًا، وتحتوي على مركبات فينولية أهمها الأوليوروبين المرتبط بتأثيرات مضادة للأكسدة وداعمة لصحة القلب.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Oleuropein",
+            "desc":"مركب فينولي رئيسي في أوراق الزيتون وله نشاطات مضادة للأكسدة."
+         },
+         {
+            "name":"Hydroxytyrosol",
+            "desc":"مركب فينولي ذو تأثير واقٍ للخلايا."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في دعم صحة القلب والأوعية",
+         "ben2":"المساعدة في تنظيم ضغط الدم",
+         "ben3":"التأثير المضاد للأكسدة",
+         "ben4":"دعم جهاز المناعة"
+      },
+      "Traditional uses":[
+         "ارتفاع ضغط الدم",
+         "التهابات الجسم",
+         "تقوية المناعة",
+         "الالتهابات الجلدية"
+      ],
+      "Modern uses":[
+         "مكملات أوراق الزيتون",
+         "مستخلصات معيارية",
+         "منتجات مضادة للأكسدة"
+      ],
+      "How to use":[
+         {
+            "use":"شاي أوراق الزيتون",
+            "desc_use":"تنقع الأوراق المجففة في الماء الساخن."
+         },
+         {
+            "use":"مستخلص أوراق الزيتون",
+            "desc_use":"كبسولات أو مستخلصات سائلة."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب تركيز الأوليوروبين في المستخلص.",
+         "الدراسات استخدمت جرعات مختلفة حسب المنتج."
+      ],
+      "Warnings":[
+         "الحذر مع أدوية ضغط الدم",
+         "الحذر مع أدوية السكري",
+         "احتمال الحساسية"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الصداع",
+         "انخفاض ضغط الدم"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الجرعات العلاجية.",
+         "الاستخدام الغذائي للزيتون آمن غالبًا."
+      ],
+      "Scientific References":[
+         "Omar SH.\nOleuropein in olive and its pharmacological effects.\nScientia Pharmaceutica.",
+         "European Medicines Agency (EMA).\nAssessment report on Olea europaea folium."
+      ]
+   },
+   {
+      "name_en_plant":"Grape Seed",
+      "name_ar_plant":"بذور العنب",
+      "name_latiny_plant":"Vitis vinifera L.",
+      "plant_category":"4",
+      "image_plant":"GrapeSeed.jpg",
+      "desc_plant":"العنب نبات كرمي معمر، تستخدم بذوره طبيًا، وتحتوي على مركبات البروأنثوسيانيدين التي تعد من مضادات الأكسدة القوية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Proanthocyanidins",
+            "desc":"مركبات بوليفينولية ذات قدرة عالية على مقاومة الأكسدة."
+         },
+         {
+            "name":"Catechins",
+            "desc":"مركبات فلافونويدية موجودة في البذور."
+         },
+         {
+            "name":"Resveratrol",
+            "desc":"مركب نباتي موجود في أجزاء من نبات العنب."
+         }
+      ],
+      "benefits":{
+         "ben1":"التأثير المضاد للأكسدة",
+         "ben2":"دعم صحة الأوعية الدموية",
+         "ben3":"المساعدة في حماية الجلد من الإجهاد التأكسدي",
+         "ben4":"دعم الدورة الدموية"
+      },
+      "Traditional uses":[
+         "مشاكل الدورة الدموية",
+         "ضعف الشعيرات الدموية",
+         "العناية بالجلد"
+      ],
+      "Modern uses":[
+         "مكملات مضادات الأكسدة",
+         "مستحضرات البشرة",
+         "مكملات الأوعية الدموية"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص بذور العنب",
+            "desc_use":"يستخدم على شكل كبسولات أو أقراص."
+         },
+         {
+            "use":"زيت بذور العنب",
+            "desc_use":"يستخدم غذائيًا أو في مستحضرات الجلد."
+         }
+      ],
+      "Typical dosages":[
+         "الدراسات استخدمت غالبًا 100–300 ملغ يوميًا من المستخلص.",
+         "تختلف الجرعة حسب تركيز البروأنثوسيانيدين."
+      ],
+      "Warnings":[
+         "الحذر مع مميعات الدم",
+         "قبل العمليات الجراحية",
+         "الحساسية المحتملة"
+      ],
+      "Side effects":[
+         "الصداع",
+         "الغثيان",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الجرعات العلاجية.",
+         "يفضل تجنب المكملات أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "Yamakoshi J, et al.\nProanthocyanidin-rich extract from grape seeds and cardiovascular health.\nAtherosclerosis.",
+         "Shi J, et al.\nGrape seed compounds and antioxidant activity."
+      ]
+   },
+   {
+      "name_en_plant":"Marshmallow",
+      "name_ar_plant":"الخطمى الطبي",
+      "name_latiny_plant":"Althaea officinalis L.",
+      "plant_category":"2",
+      "image_plant":"Marshmallow.jpg",
+      "desc_plant":"الخطمى الطبي نبات عشبي معمر من الفصيلة الخبازية، يستخدم جذره وأوراقه طبيًا، ويتميز باحتوائه على مواد هلامية تساعد في تهدئة الأغشية المخاطية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Mucilage polysaccharides",
+            "desc":"مواد هلامية نباتية تساعد على تغليف وتهدئة الأغشية المخاطية."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات مضادة للأكسدة."
+         },
+         {
+            "name":"Phenolic compounds",
+            "desc":"مركبات نباتية ذات نشاط بيولوجي."
+         }
+      ],
+      "benefits":{
+         "ben1":"تهدئة السعال الجاف",
+         "ben2":"تخفيف تهيج الحلق",
+         "ben3":"تهدئة الأغشية المخاطية",
+         "ben4":"دعم صحة الجهاز الهضمي"
+      },
+      "Traditional uses":[
+         "السعال",
+         "التهاب الحلق",
+         "حرقة المعدة",
+         "التهابات الفم"
+      ],
+      "Modern uses":[
+         "شرابات السعال",
+         "مستحلبات الحلق",
+         "مستحضرات الجهاز الهضمي"
+      ],
+      "How to use":[
+         {
+            "use":"شاي جذر الخطمى",
+            "desc_use":"ينقع الجذر المجفف لتحرير المواد الهلامية."
+         },
+         {
+            "use":"مستخلص الخطمى",
+            "desc_use":"يستخدم في المستحضرات التجارية."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب شكل المستحضر.",
+         "يستخدم عادة لفترات قصيرة للأعراض البسيطة."
+      ],
+      "Warnings":[
+         "قد يقلل امتصاص بعض الأدوية عند تناوله معها",
+         "يفضل الفصل بينه وبين الأدوية ساعتين على الأقل"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الحساسية النادرة"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد بيانات كافية عن الجرعات العلاجية.",
+         "يفضل استشارة الطبيب قبل الاستخدام."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Althaea officinalis L.",
+         "WHO Monographs on Selected Medicinal Plants."
+      ]
+   },
+   {
+      "name_en_plant":"Burdock",
+      "name_ar_plant":"الأرقطيون",
+      "name_latiny_plant":"Arctium lappa L.",
+      "plant_category":"5",
+      "image_plant":"Burdock.jpg",
+      "desc_plant":"الأرقطيون نبات عشبي ثنائي الحول من الفصيلة النجمية، يستخدم جذره طبيًا، ويحتوي على ألياف الإينولين ومركبات فينولية ذات خصائص مضادة للأكسدة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Inulin",
+            "desc":"ألياف ذائبة تعمل كغذاء للبكتيريا النافعة في الأمعاء."
+         },
+         {
+            "name":"Phenolic acids",
+            "desc":"مركبات نباتية ذات نشاط مضاد للأكسدة."
+         },
+         {
+            "name":"Lignans",
+            "desc":"مركبات نباتية موجودة في الجذر."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة الجهاز الهضمي",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"دعم صحة الجلد",
+         "ben4":"المساعدة في تحسين توازن البكتيريا المعوية"
+      },
+      "Traditional uses":[
+         "مشاكل الجلد",
+         "الدمامل",
+         "اضطرابات الهضم",
+         "تنقية الجسم حسب الاستخدام الشعبي"
+      ],
+      "Modern uses":[
+         "مكملات الجلد",
+         "شاي جذور الأرقطيون",
+         "مكملات الألياف"
+      ],
+      "How to use":[
+         {
+            "use":"جذر الأرقطيون المجفف",
+            "desc_use":"يحضر كشاي أو منقوع."
+         },
+         {
+            "use":"مستخلص الأرقطيون",
+            "desc_use":"يوجد في بعض المكملات العشبية."
+         }
+      ],
+      "Typical dosages":[
+         "لا توجد جرعة علاجية موحدة.",
+         "تختلف حسب شكل المستخلص وتركيزه."
+      ],
+      "Warnings":[
+         "الحساسية من نباتات الفصيلة النجمية",
+         "الحذر مع أدوية السكري بسبب تأثير الألياف"
+      ],
+      "Side effects":[
+         "الغازات",
+         "الانتفاخ",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا توجد معلومات كافية عن الجرعات العلاجية.",
+         "يفضل تجنب المكملات أثناء الحمل والرضاعة."
+      ],
+      "Scientific References":[
+         "Chan YS, et al.\nA review of the pharmacological effects of Arctium lappa.\nInflammopharmacology.",
+         "Predesigned herbal monographs."
+      ]
+   },
+   {
+      "name_en_plant":"Psyllium",
+      "name_ar_plant":"الإسبغول (قشور السيليوم)",
+      "name_latiny_plant":"Plantago ovata Forssk.",
+      "plant_category":"1",
+      "image_plant":"Psyllium.jpg",
+      "desc_plant":"الإسبغول نبات عشبي من الفصيلة الحملية، تستخدم قشور بذوره طبيًا، وهي غنية بالألياف الذائبة التي تمتص الماء وتكوّن مادة هلامية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Soluble fiber",
+            "desc":"ألياف ذائبة مسؤولة عن تكوين الهلام وتحسين حركة الأمعاء."
+         },
+         {
+            "name":"Mucilage",
+            "desc":"مواد هلامية نباتية تساعد في تهدئة الجهاز الهضمي."
+         }
+      ],
+      "benefits":{
+         "ben1":"علاج الإمساك",
+         "ben2":"المساعدة في تنظيم مستوى الكوليسترول",
+         "ben3":"دعم التحكم بسكر الدم",
+         "ben4":"تحسين صحة القولون"
+      },
+      "Traditional uses":[
+         "الإمساك",
+         "اضطرابات الأمعاء",
+         "مشاكل الهضم"
+      ],
+      "Modern uses":[
+         "مكملات الألياف",
+         "منتجات تنظيم الأمعاء",
+         "مساعد غذائي للكوليسترول"
+      ],
+      "How to use":[
+         {
+            "use":"قشور السيليوم",
+            "desc_use":"تخلط مع كمية كبيرة من الماء وتشرب مباشرة."
+         }
+      ],
+      "Typical dosages":[
+         "غالبًا 5–10 غرام يوميًا حسب الحاجة.",
+         "يجب تناول كمية كافية من الماء."
+      ],
+      "Warnings":[
+         "انسداد الأمعاء",
+         "صعوبة البلع",
+         "ضرورة الفصل عن بعض الأدوية"
+      ],
+      "Side effects":[
+         "الانتفاخ",
+         "الغازات",
+         "تقلصات البطن"
+      ],
+      "Pregnancy and Lactation":[
+         "يعتبر غالبًا آمنًا عند استخدامه كألياف غذائية.",
+         "يجب استخدامه مع الماء الكافي."
+      ],
+      "Scientific References":[
+         "McRorie JW.\nPsyllium fiber and health benefits.\nNutrition Today.",
+         "European Medicines Agency (EMA).\nPlantago ovata seed husk monograph."
+      ]
+   },
+   {
+      "name_en_plant":"Passionflower",
+      "name_ar_plant":"زهرة الآلام",
+      "name_latiny_plant":"Passiflora incarnata L.",
+      "plant_category":"3",
+      "image_plant":"Passionflower.jpg",
+      "desc_plant":"زهرة الآلام نبات متسلق معمر، تستخدم الأجزاء الهوائية منه طبيًا، ويحتوي على مركبات فلافونويدية ترتبط بتأثيراته المهدئة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Vitexin",
+            "desc":"فلافونويد نباتي ذو تأثيرات مهدئة."
+         },
+         {
+            "name":"Chrysin",
+            "desc":"مركب فلافونويدي موجود في النبات."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات مرتبطة بالنشاط العصبي."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في تقليل القلق الخفيف",
+         "ben2":"تحسين الاسترخاء والنوم",
+         "ben3":"التأثير المهدئ للجهاز العصبي",
+         "ben4":"تقليل التوتر"
+      },
+      "Traditional uses":[
+         "الأرق",
+         "القلق",
+         "التوتر العصبي",
+         "العصبية"
+      ],
+      "Modern uses":[
+         "مكملات النوم",
+         "مستحضرات الاسترخاء",
+         "خلطات عشبية مهدئة"
+      ],
+      "How to use":[
+         {
+            "use":"شاي زهرة الآلام",
+            "desc_use":"تحضير الأجزاء المجففة بالماء الساخن."
+         },
+         {
+            "use":"مستخلص زهرة الآلام",
+            "desc_use":"كبسولات أو قطرات حسب المنتج."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب تركيز المستخلص.",
+         "تستخدم غالبًا لفترات قصيرة."
+      ],
+      "Warnings":[
+         "الحذر مع المهدئات والمنومات",
+         "عدم القيادة إذا حدث نعاس",
+         "قبل العمليات الجراحية"
+      ],
+      "Side effects":[
+         "النعاس",
+         "الدوخة",
+         "اضطراب المعدة"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالاستخدام العلاجي أثناء الحمل.",
+         "المعلومات حول الرضاعة غير كافية."
+      ],
+      "Scientific References":[
+         "Akhondzadeh S, et al.\nPassionflower in generalized anxiety disorder.\nJournal of Clinical Pharmacy and Therapeutics.",
+         "European Medicines Agency (EMA).\nAssessment report on Passiflora incarnata."
+      ]
+   },
+   {
+      "name_en_plant":"Cranberry",
+      "name_ar_plant":"التوت البري",
+      "name_latiny_plant":"Vaccinium macrocarpon Aiton",
+      "plant_category":"6",
+      "image_plant":"Cranberry.jpg",
+      "desc_plant":"التوت البري نبات شجيري صغير من الفصيلة الخلنجية، تستخدم ثماره وعصيره طبيًا، ويتميز باحتوائه على مركبات البروأنثوسيانيدين التي تمت دراسة دورها في صحة الجهاز البولي.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Proanthocyanidins (PACs)",
+            "desc":"مركبات بوليفينولية قد تمنع التصاق بعض البكتيريا بجدار المسالك البولية."
+         },
+         {
+            "name":"Anthocyanins",
+            "desc":"صبغات نباتية ذات نشاط مضاد للأكسدة."
+         },
+         {
+            "name":"Organic acids",
+            "desc":"مثل حمض الستريك والبنزويك."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في تقليل تكرر التهابات المسالك البولية عند بعض الأشخاص",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"دعم صحة الجهاز البولي",
+         "ben4":"دعم صحة القلب والأوعية"
+      },
+      "Traditional uses":[
+         "مشاكل المسالك البولية",
+         "الوقاية من الالتهابات",
+         "تحسين الصحة العامة"
+      ],
+      "Modern uses":[
+         "كبسولات التوت البري",
+         "العصائر المدعمة",
+         "مكملات الجهاز البولي"
+      ],
+      "How to use":[
+         {
+            "use":"عصير التوت البري",
+            "desc_use":"يستخدم كمشروب غذائي."
+         },
+         {
+            "use":"مستخلص التوت البري",
+            "desc_use":"كبسولات تحتوي على نسبة معيارية من PACs."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف حسب تركيز المستخلص.",
+         "الدراسات استخدمت منتجات تحتوي على كميات مختلفة من PACs."
+      ],
+      "Warnings":[
+         "الحذر لدى مرضى حصى الكلى بسبب الأوكسالات",
+         "الحذر مع دواء الوارفارين"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الإسهال",
+         "زيادة خطر حصى الكلى لدى بعض الأشخاص"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي غالبًا آمن.",
+         "يفضل استشارة الطبيب عند استخدام المكملات."
+      ],
+      "Scientific References":[
+         "Jepson RG, Williams G, Craig JC.\nCranberries for preventing urinary tract infections.\nCochrane Database of Systematic Reviews.",
+         "European Medicines Agency (EMA).\nVaccinium macrocarpon fruit monograph."
+      ]
+   },
+   {
+      "name_en_plant":"Bilberry",
+      "name_ar_plant":"العنبية الأوروبية",
+      "name_latiny_plant":"Vaccinium myrtillus L.",
+      "plant_category":"4",
+      "image_plant":"Bilberry.jpg",
+      "desc_plant":"العنبية الأوروبية شجيرة صغيرة من الفصيلة الخلنجية، تستخدم ثمارها طبيًا، وهي غنية بالأنثوسيانينات التي تمتلك نشاطًا مضادًا للأكسدة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Anthocyanins",
+            "desc":"المركبات الرئيسية المسؤولة عن اللون الأزرق الداكن والنشاط المضاد للأكسدة."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية داعمة لصحة الأوعية."
+         },
+         {
+            "name":"Phenolic acids",
+            "desc":"مركبات مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة العين",
+         "ben2":"التأثير المضاد للأكسدة",
+         "ben3":"دعم صحة الأوعية الدموية",
+         "ben4":"المساعدة في حماية الخلايا من الإجهاد التأكسدي"
+      },
+      "Traditional uses":[
+         "مشاكل الرؤية الليلية",
+         "ضعف الدورة الدموية",
+         "الإسهال الخفيف"
+      ],
+      "Modern uses":[
+         "مكملات العين",
+         "مستخلصات الأنثوسيانين",
+         "مضادات الأكسدة"
+      ],
+      "How to use":[
+         {
+            "use":"ثمار العنبية",
+            "desc_use":"تؤكل طازجة أو مجففة."
+         },
+         {
+            "use":"مستخلص العنبية",
+            "desc_use":"كبسولات أو أقراص معيارية."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف حسب تركيز الأنثوسيانينات في المستخلص.",
+         "لا توجد جرعة علاجية موحدة."
+      ],
+      "Warnings":[
+         "الحذر مع مميعات الدم",
+         "الحذر قبل العمليات الجراحية"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الغثيان",
+         "الإسهال"
+      ],
+      "Pregnancy and Lactation":[
+         "الاستخدام الغذائي آمن غالبًا.",
+         "لا توجد معلومات كافية عن المكملات المركزة."
+      ],
+      "Scientific References":[
+         "Canter PH, Ernst E.\nAnthocyanosides of Vaccinium myrtillus and visual function.\nSurvey of Ophthalmology.",
+         "European Medicines Agency (EMA).\nAssessment report on Vaccinium myrtillus fruit."
+      ]
+   },
+   {
+      "name_en_plant":"Horsetail",
+      "name_ar_plant":"ذيل الحصان",
+      "name_latiny_plant":"Equisetum arvense L.",
+      "plant_category":"6",
+      "image_plant":"Horsetail.jpg",
+      "desc_plant":"ذيل الحصان نبات عشبي معمر، تستخدم أجزاؤه الهوائية طبيًا، ويتميز باحتوائه على السيليكا ومركبات الفلافونويد.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Silica",
+            "desc":"معدن نباتي يوجد بنسبة مرتفعة في النبات."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية مضادة للأكسدة."
+         },
+         {
+            "name":"Phenolic acids",
+            "desc":"مركبات ذات نشاط بيولوجي."
+         }
+      ],
+      "benefits":{
+         "ben1":"التأثير المدر للبول",
+         "ben2":"دعم صحة المسالك البولية",
+         "ben3":"دعم صحة العظام والأنسجة",
+         "ben4":"التأثير المضاد للأكسدة"
+      },
+      "Traditional uses":[
+         "احتباس السوائل",
+         "مشاكل البول",
+         "تقوية الشعر والأظافر"
+      ],
+      "Modern uses":[
+         "شاي ذيل الحصان",
+         "مكملات السيليكا",
+         "مستحضرات الشعر والجلد"
+      ],
+      "How to use":[
+         {
+            "use":"شاي ذيل الحصان",
+            "desc_use":"تحضير الأجزاء المجففة بالماء الساخن."
+         },
+         {
+            "use":"مستخلص ذيل الحصان",
+            "desc_use":"يستخدم حسب تركيز المنتج."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف حسب المستحضر.",
+         "لا ينصح بالاستخدام الطويل دون إشراف."
+      ],
+      "Warnings":[
+         "أمراض الكلى",
+         "الحذر مع مدرات البول",
+         "الاستخدام الطويل قد يؤثر على فيتامين B1"
+      ],
+      "Side effects":[
+         "زيادة التبول",
+         "اضطراب المعدة",
+         "نقص بعض المعادن عند الاستخدام الطويل"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالاستخدام العلاجي أثناء الحمل.",
+         "لا توجد معلومات كافية عن الرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Equisetum arvense L.",
+         "Bisset NG.\nHerbal Drugs and Phytopharmaceuticals."
+      ]
+   },
+   {
+      "name_en_plant":"Calendula",
+      "name_ar_plant":"الأذريون",
+      "name_latiny_plant":"Calendula officinalis L.",
+      "plant_category":"5",
+      "image_plant":"Calendula.jpg",
+      "desc_plant":"الأذريون نبات عشبي حولي من الفصيلة النجمية، تستخدم أزهاره طبيًا، وتحتوي على مركبات فلافونويدية وكاروتينات وزيوت طيارة ترتبط بتأثيراته المضادة للالتهاب والتئام الجروح.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية ذات تأثيرات مضادة للأكسدة والالتهاب."
+         },
+         {
+            "name":"Triterpenoids",
+            "desc":"مركبات مرتبطة بخصائص التئام الجروح."
+         },
+         {
+            "name":"Carotenoids",
+            "desc":"صبغات نباتية ذات نشاط مضاد للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"المساعدة في التئام الجروح الجلدية",
+         "ben2":"تهدئة التهابات الجلد",
+         "ben3":"ترطيب وتهدئة البشرة",
+         "ben4":"التأثير المضاد للأكسدة"
+      },
+      "Traditional uses":[
+         "الجروح البسيطة",
+         "الحروق الخفيفة",
+         "التهابات الجلد",
+         "التهاب الفم والحلق"
+      ],
+      "Modern uses":[
+         "كريمات ومراهم الجلد",
+         "غسولات الفم",
+         "مستحضرات العناية بالبشرة"
+      ],
+      "How to use":[
+         {
+            "use":"مرهم الأذريون",
+            "desc_use":"يوضع موضعيًا على الجلد حسب تعليمات المنتج."
+         },
+         {
+            "use":"شاي الأذريون",
+            "desc_use":"يستخدم كمشروب أو للغرغرة."
+         }
+      ],
+      "Typical dosages":[
+         "الاستخدام الموضعي حسب تركيز المستحضر.",
+         "لا توجد جرعة فموية علاجية موحدة."
+      ],
+      "Warnings":[
+         "الحساسية من الفصيلة النجمية",
+         "تجنب وضعه على الجروح العميقة دون استشارة"
+      ],
+      "Side effects":[
+         "تهيج الجلد",
+         "الحساسية",
+         "الطفح الجلدي"
+      ],
+      "Pregnancy and Lactation":[
+         "يفضل تجنب الاستخدام الفموي العلاجي أثناء الحمل.",
+         "الاستخدام الموضعي يحتاج إلى استشارة عند الحمل."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Calendula officinalis L.",
+         "Muley BP, Khadabadi SS, Banarase NB.\nPhytochemical constituents and pharmacological activities of Calendula officinalis."
+      ]
+   },
+   {
+      "name_en_plant":"Yarrow",
+      "name_ar_plant":"الأخيلية (الألفية)",
+      "name_latiny_plant":"Achillea millefolium L.",
+      "plant_category":"1",
+      "image_plant":"Yarrow.jpg",
+      "desc_plant":"الأخيلية نبات عشبي معمر من الفصيلة النجمية، تستخدم أجزاؤه الهوائية طبيًا، ويحتوي على زيوت طيارة وفلافونويدات ومركبات مرة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Essential oils",
+            "desc":"تحتوي على مركبات مثل Azulene وTerpenes."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات مضادة للأكسدة."
+         },
+         {
+            "name":"Sesquiterpene lactones",
+            "desc":"مركبات نباتية ذات نشاطات بيولوجية."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة الجهاز الهضمي",
+         "ben2":"المساعدة في تخفيف التقلصات",
+         "ben3":"التأثير المضاد للالتهاب",
+         "ben4":"المساعدة في التئام الجروح"
+      },
+      "Traditional uses":[
+         "المغص",
+         "عسر الهضم",
+         "الجروح",
+         "نزلات البرد"
+      ],
+      "Modern uses":[
+         "شاي عشبي",
+         "مستحضرات الجلد",
+         "مكملات نباتية"
+      ],
+      "How to use":[
+         {
+            "use":"شاي الأخيلية",
+            "desc_use":"تحضير الأجزاء الهوائية المجففة بالماء الساخن."
+         },
+         {
+            "use":"الاستخدام الموضعي",
+            "desc_use":"في بعض الكريمات والمستحضرات الجلدية."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف الجرعات حسب شكل المستحضر.",
+         "لا توجد جرعات علاجية موحدة."
+      ],
+      "Warnings":[
+         "الحساسية من الفصيلة النجمية",
+         "الحذر مع مميعات الدم",
+         "الحمل"
+      ],
+      "Side effects":[
+         "الحساسية الجلدية",
+         "اضطراب المعدة",
+         "الدوخة"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالاستخدام العلاجي أثناء الحمل.",
+         "المعلومات حول الرضاعة غير كافية."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Achillea millefolium.",
+         "Benedek B, Kopp B.\nAchillea millefolium L. s.l. revisited."
+      ]
+   },
+   {
+      "name_en_plant":"Gotu Kola",
+      "name_ar_plant":"كوتو كولا (سنتيلا)",
+      "name_latiny_plant":"Centella asiatica (L.) Urb.",
+      "plant_category":"5",
+      "image_plant":"GotuKola.jpg",
+      "desc_plant":"كوتو كولا نبات عشبي زاحف من الفصيلة الخيمية، تستخدم أوراقه وأجزاؤه الهوائية طبيًا، ويحتوي على مركبات تريتربينية ترتبط بصحة الجلد والدورة الدموية.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Asiaticoside",
+            "desc":"مركب تريتربيني مرتبط بتجدد الجلد."
+         },
+         {
+            "name":"Madecassoside",
+            "desc":"مركب ذو تأثيرات مضادة للالتهاب."
+         },
+         {
+            "name":"Triterpenoids",
+            "desc":"المجموعة الرئيسية من المركبات الفعالة."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم التئام الجروح",
+         "ben2":"تحسين صحة الجلد",
+         "ben3":"دعم الدورة الدموية الوريدية",
+         "ben4":"المساعدة في تقليل الإجهاد النفسي الخفيف"
+      },
+      "Traditional uses":[
+         "الجروح",
+         "مشاكل الجلد",
+         "تحسين الذاكرة",
+         "التعب"
+      ],
+      "Modern uses":[
+         "كريمات الجلد",
+         "مكملات الذاكرة",
+         "مستحضرات الأوردة"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص كوتو كولا",
+            "desc_use":"كبسولات أو أقراص حسب التركيز."
+         },
+         {
+            "use":"كريم موضعي",
+            "desc_use":"يستخدم على الجلد حسب المنتج."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف حسب تركيز المستخلص.",
+         "المستحضرات الموضعية تختلف حسب نسبة المادة الفعالة."
+      ],
+      "Warnings":[
+         "أمراض الكبد",
+         "الحذر مع الأدوية المهدئة",
+         "الحمل"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الصداع",
+         "الحساسية الجلدية"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح بالاستخدام العلاجي أثناء الحمل.",
+         "لا توجد معلومات كافية عن الرضاعة."
+      ],
+      "Scientific References":[
+         "James JT, Dubery IA.\nPentacyclic triterpenoids from Centella asiatica.",
+         "Ortonne JP.\nCentella asiatica in dermatology."
+      ]
+   },
+   {
+      "name_en_plant":"Borage",
+      "name_ar_plant":"لسان الثور",
+      "name_latiny_plant":"Borago officinalis L.",
+      "plant_category":"5",
+      "image_plant":"Borage.jpg",
+      "desc_plant":"لسان الثور نبات عشبي حولي من الفصيلة الحمحمية، تستخدم أوراقه وبذوره طبيًا، ويشتهر زيت بذوره باحتوائه على حمض غاما لينولينيك (GLA).",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Gamma-linolenic acid (GLA)",
+            "desc":"حمض دهني أساسي من أحماض أوميغا-6 يوجد بتركيز مرتفع في زيت البذور."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية ذات نشاط مضاد للأكسدة."
+         },
+         {
+            "name":"Mucilage",
+            "desc":"مواد هلامية نباتية تساعد في تهدئة الأغشية المخاطية."
+         }
+      ],
+      "benefits":{
+         "ben1":"دعم صحة الجلد",
+         "ben2":"المساعدة في تقليل جفاف البشرة",
+         "ben3":"التأثير المضاد للالتهاب",
+         "ben4":"دعم صحة المفاصل"
+      },
+      "Traditional uses":[
+         "السعال",
+         "التهابات الجلد",
+         "الإجهاد والتعب",
+         "مشاكل البشرة"
+      ],
+      "Modern uses":[
+         "زيت بذور لسان الثور",
+         "مكملات الأحماض الدهنية",
+         "مستحضرات الجلد"
+      ],
+      "How to use":[
+         {
+            "use":"زيت بذور لسان الثور",
+            "desc_use":"يستخدم كمكمل غذائي يحتوي على GLA."
+         },
+         {
+            "use":"الاستخدام الموضعي",
+            "desc_use":"يدخل في بعض مستحضرات البشرة."
+         }
+      ],
+      "Typical dosages":[
+         "تختلف حسب تركيز GLA في الزيت.",
+         "غالبًا تستخدم الدراسات جرعات مختلفة حسب الحالة."
+      ],
+      "Warnings":[
+         "تجنب المنتجات التي تحتوي على قلويدات بيروليزيدينية غير المنقاة",
+         "الحذر مع مميعات الدم",
+         "الحمل"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الغثيان",
+         "الصداع"
+      ],
+      "Pregnancy and Lactation":[
+         "لا ينصح باستخدام المكملات أثناء الحمل.",
+         "المعلومات حول الرضاعة غير كافية."
+      ],
+      "Scientific References":[
+         "Zurier RB, et al.\nGamma-linolenic acid treatment of rheumatoid arthritis.\nArthritis and Rheumatism.",
+         "European Medicines Agency (EMA).\nBorago officinalis herbal monograph."
+      ]
+   },
+   {
+      "name_en_plant":"Goldenseal",
+      "name_ar_plant":"الختمية الذهبية",
+      "name_latiny_plant":"Hydrastis canadensis L.",
+      "plant_category":"2",
+      "image_plant":"Goldenseal.jpg",
+      "desc_plant":"الختمية الذهبية نبات عشبي معمر من الفصيلة الحوذانية، يستخدم جذره وجذموره طبيًا، ويحتوي على قلويدات نباتية أهمها البربرين والهيدراستين.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Berberine",
+            "desc":"قلويد نباتي له نشاطات مضادة للميكروبات."
+         },
+         {
+            "name":"Hydrastine",
+            "desc":"قلويد نباتي موجود في الجذر."
+         },
+         {
+            "name":"Canadaline",
+            "desc":"مركب قلوي موجود في النبات."
+         }
+      ],
+      "benefits":{
+         "ben1":"التأثير المضاد لبعض الميكروبات",
+         "ben2":"دعم صحة الجهاز الهضمي",
+         "ben3":"دعم صحة الأغشية المخاطية",
+         "ben4":"التأثير المضاد للالتهاب"
+      },
+      "Traditional uses":[
+         "نزلات البرد",
+         "التهابات الفم",
+         "الإسهال",
+         "مشاكل الهضم"
+      ],
+      "Modern uses":[
+         "مكملات عشبية",
+         "غسولات الفم",
+         "مستحضرات الجهاز الهضمي"
+      ],
+      "How to use":[
+         {
+            "use":"مستخلص الجذر",
+            "desc_use":"يستخدم في المكملات بتركيزات محددة."
+         },
+         {
+            "use":"غسول فموي",
+            "desc_use":"يستخدم موضعيًا في بعض المنتجات."
+         }
+      ],
+      "Typical dosages":[
+         "لا توجد جرعة علاجية موحدة.",
+         "ينصح باستخدامه لفترات قصيرة فقط."
+      ],
+      "Warnings":[
+         "الحمل والرضاعة",
+         "حديثو الولادة",
+         "الحذر مع أدوية الكبد والأدوية المتعددة"
+      ],
+      "Side effects":[
+         "اضطراب المعدة",
+         "الغثيان",
+         "الإمساك"
+      ],
+      "Pregnancy and Lactation":[
+         "غير موصى به أثناء الحمل.",
+         "غير موصى به أثناء الرضاعة."
+      ],
+      "Scientific References":[
+         "EMA/HMPC.\nHydrastis canadensis herbal assessment.",
+         "Cernakova M, Kostalova D.\nAntimicrobial activity of berberine."
+      ]
+   },
+   {
+      "name_en_plant":"Celandine",
+      "name_ar_plant":"الخطاطيف",
+      "name_latiny_plant":"Chelidonium majus L.",
+      "plant_category":"1",
+      "image_plant":"Celandine.jpg",
+      "desc_plant":"الخطاطيف نبات عشبي معمر من الفصيلة الخشخاشية، يستخدم تقليديًا أجزاء النبات المختلفة، ويحتوي على قلويدات نباتية فعالة.",
+      "Active ingredients and chemical compounds":[
+         {
+            "name":"Isoquinoline alkaloids",
+            "desc":"مجموعة قلويدات تشمل Chelidonine وSanguinarine."
+         },
+         {
+            "name":"Flavonoids",
+            "desc":"مركبات نباتية مضادة للأكسدة."
+         }
+      ],
+      "benefits":{
+         "ben1":"استخدامات تقليدية لاضطرابات الجهاز الهضمي",
+         "ben2":"التأثير المضاد للتشنج في الدراسات المخبرية",
+         "ben3":"نشاط مضاد للميكروبات في الدراسات الأولية",
+         "ben4":"استخدامات جلدية تقليدية"
+      },
+      "Traditional uses":[
+         "الثآليل الجلدية",
+         "مشاكل الكبد حسب الطب الشعبي",
+         "تشنجات الجهاز الهضمي"
+      ],
+      "Modern uses":[
+         "مستحضرات جلدية محدودة",
+         "أبحاث دوائية على القلويدات"
+      ],
+      "How to use":[
+         {
+            "use":"مستحضرات موضعية",
+            "desc_use":"تستخدم بعض المستحضرات على الجلد تحت إشراف."
+         }
+      ],
+      "Typical dosages":[
+         "لا توجد جرعة علاجية آمنة موحدة للاستخدام الداخلي."
+      ],
+      "Warnings":[
+         "قد يسبب سمية كبدية",
+         "لا يستخدم داخليًا دون إشراف طبي",
+         "الحمل والرضاعة"
+      ],
+      "Side effects":[
+         "اضطرابات الكبد",
+         "الغثيان",
+         "ألم البطن"
+      ],
+      "Pregnancy and Lactation":[
+         "غير موصى به أثناء الحمل.",
+         "غير موصى به أثناء الرضاعة."
+      ],
+      "Scientific References":[
+         "European Medicines Agency (EMA).\nAssessment report on Chelidonium majus.",
+         "Máthé I, et al.\nAlkaloids of Chelidonium majus."
+      ]
+   }
+
+
+]
